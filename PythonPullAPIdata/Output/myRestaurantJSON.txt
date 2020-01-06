@@ -1,0 +1,1010 @@
+
+[
+{"myRestaurantID": 1, "modified": "2018-08-17", "collection_id": 1, "collection_name": "Trending This Week", "res_id": 8900844, "name": "Lamanna's Bakery", "latitude": "43.7978940000", "longitude": "-79.1484530000", "cuisines": "Bakery, Italian", "average_cost_for_two": 25, "price_range": 1, "aggregate_rating": "4.9", "rating_text": "Excellent", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 2, "modified": "2018-08-17", "collection_id": 1, "collection_name": "Trending This Week", "res_id": 8908981, "name": "Oddseoul", "latitude": "43.6461750000", "longitude": "-79.4196083333", "cuisines": "Korean, Asian Fusion, Asian", "average_cost_for_two": 60, "price_range": 3, "aggregate_rating": "4.2", "rating_text": "Very Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 3, "modified": "2018-08-17", "collection_id": 1, "collection_name": "Trending This Week", "res_id": 8910426, "name": "Sam's Congee Delight", "latitude": "43.8260333333", "longitude": "-79.3047250000", "cuisines": "Cantonese, Chinese, Asian", "average_cost_for_two": 15, "price_range": 1, "aggregate_rating": "3.5", "rating_text": "Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 4, "modified": "2018-08-17", "collection_id": 1, "collection_name": "Trending This Week", "res_id": 8907408, "name": "Square Boy", "latitude": "43.6799700000", "longitude": "-79.3394250000", "cuisines": "Greek, Burger", "average_cost_for_two": 20, "price_range": 1, "aggregate_rating": "4.7", "rating_text": "Excellent", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 5, "modified": "2018-08-17", "collection_id": 1, "collection_name": "Trending This Week", "res_id": 8904505, "name": "Cafe De Khan", "latitude": "43.5886140000", "longitude": "-79.7399270000", "cuisines": "Pakistani", "average_cost_for_two": 40, "price_range": 2, "aggregate_rating": "3.5", "rating_text": "Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 6, "modified": "2018-08-17", "collection_id": 1, "collection_name": "Trending This Week", "res_id": 8900280, "name": "Swatow Restaurant", "latitude": "43.6537666667", "longitude": "-79.3981944444", "cuisines": "Cantonese", "average_cost_for_two": 25, "price_range": 1, "aggregate_rating": "4.0", "rating_text": "Very Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 7, "modified": "2018-08-17", "collection_id": 1, "collection_name": "Trending This Week", "res_id": 17732974, "name": "Mayflower Chinese Food", "latitude": "43.6917330000", "longitude": "-79.5320710000", "cuisines": "Chinese", "average_cost_for_two": 25, "price_range": 1, "aggregate_rating": "4.5", "rating_text": "Excellent", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 8, "modified": "2018-08-17", "collection_id": 1, "collection_name": "Trending This Week", "res_id": 8911117, "name": "Ginza", "latitude": "43.8063030000", "longitude": "-79.4221830000", "cuisines": "Sushi, Japanese, Asian, Thai", "average_cost_for_two": 30, "price_range": 2, "aggregate_rating": "3.7", "rating_text": "Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 9, "modified": "2018-08-17", "collection_id": 1, "collection_name": "Trending This Week", "res_id": 8911017, "name": "Piggy's Restaurant", "latitude": "43.8053710000", "longitude": "-79.4219180000", "cuisines": "Korean, Asian", "average_cost_for_two": 30, "price_range": 2, "aggregate_rating": "3.7", "rating_text": "Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 10, "modified": "2018-08-17", "collection_id": 1, "collection_name": "Trending This Week", "res_id": 8903302, "name": "Phoenix Restaurant", "latitude": "43.8179330000", "longitude": "-79.3492860000", "cuisines": "Hong Kong Style, Chinese, Asian", "average_cost_for_two": 40, "price_range": 2, "aggregate_rating": "3.5", "rating_text": "Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 11, "modified": "2018-08-17", "collection_id": 1, "collection_name": "Trending This Week", "res_id": 8906631, "name": "Oyshi Sushi", "latitude": "43.6424666667", "longitude": "-79.3761055556", "cuisines": "Sushi, Japanese, Asian", "average_cost_for_two": 40, "price_range": 2, "aggregate_rating": "4.1", "rating_text": "Very Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 12, "modified": "2018-08-17", "collection_id": 1, "collection_name": "Trending This Week", "res_id": 8901925, "name": "BarBQ Tonite", "latitude": "43.5793800000", "longitude": "-79.6174770000", "cuisines": "Pakistani, North Indian", "average_cost_for_two": 40, "price_range": 2, "aggregate_rating": "3.7", "rating_text": "Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 13, "modified": "2018-08-17", "collection_id": 1, "collection_name": "Trending This Week", "res_id": 8908721, "name": "Amadeu's", "latitude": "43.6539916667", "longitude": "-79.4017861111", "cuisines": "Portuguese", "average_cost_for_two": 70, "price_range": 3, "aggregate_rating": "3.6", "rating_text": "Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 14, "modified": "2018-08-17", "collection_id": 1, "collection_name": "Trending This Week", "res_id": 17734552, "name": "Tremendous Chinese", "latitude": "43.5734630000", "longitude": "-79.6513760000", "cuisines": "Dim Sum, Cantonese", "average_cost_for_two": 35, "price_range": 2, "aggregate_rating": "3.8", "rating_text": "Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 15, "modified": "2018-08-17", "collection_id": 1, "collection_name": "Trending This Week", "res_id": 8906077, "name": "Saving Grace", "latitude": "43.6508990000", "longitude": "-79.4124420000", "cuisines": "Cafe, Canadian", "average_cost_for_two": 30, "price_range": 2, "aggregate_rating": "4.0", "rating_text": "Very Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 16, "modified": "2018-08-17", "collection_id": 1, "collection_name": "Trending This Week", "res_id": 17736659, "name": "Mei Ling Chinese Food", "latitude": "43.9936620000", "longitude": "-79.4659320000", "cuisines": "Chinese", "average_cost_for_two": 25, "price_range": 1, "aggregate_rating": "4.0", "rating_text": "Very Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 17, "modified": "2018-08-17", "collection_id": 1, "collection_name": "Trending This Week", "res_id": 8906219, "name": "Gio Rana's Really Really Nice Restaurant", "latitude": "43.6634750000", "longitude": "-79.3305666667", "cuisines": "Italian", "average_cost_for_two": 65, "price_range": 3, "aggregate_rating": "4.6", "rating_text": "Excellent", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 18, "modified": "2018-08-17", "collection_id": 1, "collection_name": "Trending This Week", "res_id": 17714669, "name": "Alo Restaurant", "latitude": "43.6485460000", "longitude": "-79.3960280000", "cuisines": "French", "average_cost_for_two": 100, "price_range": 4, "aggregate_rating": "4.1", "rating_text": "Very Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 19, "modified": "2018-08-17", "collection_id": 1, "collection_name": "Trending This Week", "res_id": 17732289, "name": "Hakka Village Chinese", "latitude": "43.6836390000", "longitude": "-79.7324620000", "cuisines": "Hakka Chinese", "average_cost_for_two": 30, "price_range": 2, "aggregate_rating": "3.8", "rating_text": "Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 20, "modified": "2018-08-17", "collection_id": 1, "collection_name": "Trending This Week", "res_id": 8901236, "name": "Caribbean Heat", "latitude": "43.7643890000", "longitude": "-79.4898910000", "cuisines": "Caribbean, Chinese, Asian", "average_cost_for_two": 25, "price_range": 1, "aggregate_rating": "3.9", "rating_text": "Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 21, "modified": "2018-08-17", "collection_id": 1, "collection_name": "Trending This Week", "res_id": 8905055, "name": "Sonny's", "latitude": "43.6960370000", "longitude": "-79.7506480000", "cuisines": "Fast Food", "average_cost_for_two": 25, "price_range": 1, "aggregate_rating": "3.9", "rating_text": "Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 22, "modified": "2018-08-17", "collection_id": 1, "collection_name": "Trending This Week", "res_id": 8900680, "name": "Sushi Park", "latitude": "43.5269780000", "longitude": "-79.6768440000", "cuisines": "Sushi", "average_cost_for_two": 30, "price_range": 2, "aggregate_rating": "3.8", "rating_text": "Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 23, "modified": "2018-08-17", "collection_id": 1, "collection_name": "Trending This Week", "res_id": 8906757, "name": "Sansotei Ramen", "latitude": "43.6550972222", "longitude": "-79.3864055556", "cuisines": "Ramen", "average_cost_for_two": 40, "price_range": 2, "aggregate_rating": "4.4", "rating_text": "Very Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 24, "modified": "2018-08-17", "collection_id": 1, "collection_name": "Trending This Week", "res_id": 8908299, "name": "Flo's Diner", "latitude": "43.6713570000", "longitude": "-79.3909660000", "cuisines": "Diner, Canadian", "average_cost_for_two": 35, "price_range": 2, "aggregate_rating": "3.5", "rating_text": "Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 25, "modified": "2018-08-17", "collection_id": 1, "collection_name": "Trending This Week", "res_id": 8908795, "name": "Lemongrass", "latitude": "43.7065965000", "longitude": "-79.3779411000", "cuisines": "Thai", "average_cost_for_two": 70, "price_range": 3, "aggregate_rating": "3.6", "rating_text": "Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 26, "modified": "2018-08-17", "collection_id": 1, "collection_name": "Trending This Week", "res_id": 8909390, "name": "Gonoe Sushi", "latitude": "43.6392250000", "longitude": "-79.3860400000", "cuisines": "Sushi, Japanese, Asian", "average_cost_for_two": 40, "price_range": 2, "aggregate_rating": "3.7", "rating_text": "Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 27, "modified": "2018-08-17", "collection_id": 1, "collection_name": "Trending This Week", "res_id": 8910797, "name": "Rectory Cafe", "latitude": "43.6273690000", "longitude": "-79.3565750000", "cuisines": "Cafe", "average_cost_for_two": 35, "price_range": 2, "aggregate_rating": "3.5", "rating_text": "Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 28, "modified": "2018-08-17", "collection_id": 1, "collection_name": "Trending This Week", "res_id": 8910260, "name": "Ding Tai Fung", "latitude": "43.7966416667", "longitude": "-79.2699194444", "cuisines": "Shanghai, Dim Sum", "average_cost_for_two": 30, "price_range": 2, "aggregate_rating": "3.6", "rating_text": "Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 29, "modified": "2018-08-17", "collection_id": 1, "collection_name": "Trending This Week", "res_id": 8908607, "name": "Lee Chen", "latitude": "43.6714972222", "longitude": "-79.3872305556", "cuisines": "Taiwanese, Chinese, Asian", "average_cost_for_two": 35, "price_range": 2, "aggregate_rating": "3.9", "rating_text": "Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 30, "modified": "2018-08-17", "collection_id": 1, "collection_name": "Trending This Week", "res_id": 8908995, "name": "The Stockyards", "latitude": "43.6815720000", "longitude": "-79.4263230000", "cuisines": "BBQ, Burger", "average_cost_for_two": 25, "price_range": 1, "aggregate_rating": "4.8", "rating_text": "Excellent", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 1, "modified": "2018-08-17", "collection_id": 760, "collection_name": "Mealshare", "res_id": 8905208, "name": "Terroni", "latitude": "43.6462480000", "longitude": "-79.4091360000", "cuisines": "Italian, Pizza", "average_cost_for_two": 65, "price_range": 3, "aggregate_rating": "4.1", "rating_text": "Very Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 2, "modified": "2018-08-17", "collection_id": 760, "collection_name": "Mealshare", "res_id": 8905213, "name": "Pizzeria Libretto", "latitude": "43.6488820000", "longitude": "-79.4204520000", "cuisines": "Pizza, Italian", "average_cost_for_two": 50, "price_range": 2, "aggregate_rating": "4.7", "rating_text": "Excellent", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 3, "modified": "2018-08-17", "collection_id": 760, "collection_name": "Mealshare", "res_id": 8903930, "name": "Terroni", "latitude": "43.6508419000", "longitude": "-79.3757777000", "cuisines": "Italian, Pizza", "average_cost_for_two": 65, "price_range": 3, "aggregate_rating": "4.2", "rating_text": "Very Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 4, "modified": "2018-08-17", "collection_id": 760, "collection_name": "Mealshare", "res_id": 8904756, "name": "Richmond Station", "latitude": "43.6515580000", "longitude": "-79.3791350000", "cuisines": "Italian, Canadian", "average_cost_for_two": 80, "price_range": 3, "aggregate_rating": "4.8", "rating_text": "Excellent", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 5, "modified": "2018-08-17", "collection_id": 760, "collection_name": "Mealshare", "res_id": 8906821, "name": "Marben", "latitude": "43.6435890000", "longitude": "-79.3985420000", "cuisines": "Burger, Spanish, Canadian", "average_cost_for_two": 70, "price_range": 3, "aggregate_rating": "4.1", "rating_text": "Very Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 6, "modified": "2018-08-17", "collection_id": 760, "collection_name": "Mealshare", "res_id": 8906156, "name": "Pizzeria Libretto", "latitude": "43.6783833333", "longitude": "-79.3478000000", "cuisines": "Pizza, Italian", "average_cost_for_two": 50, "price_range": 2, "aggregate_rating": "4.3", "rating_text": "Very Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 7, "modified": "2018-08-17", "collection_id": 760, "collection_name": "Mealshare", "res_id": 8909348, "name": "Enoteca Sociale", "latitude": "43.6494250000", "longitude": "-79.4256277778", "cuisines": "Italian, European", "average_cost_for_two": 80, "price_range": 3, "aggregate_rating": "4.1", "rating_text": "Very Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 8, "modified": "2018-08-17", "collection_id": 760, "collection_name": "Mealshare", "res_id": 8911014, "name": "Terroni", "latitude": "43.6800035000", "longitude": "-79.3905380000", "cuisines": "Italian, Pizza", "average_cost_for_two": 65, "price_range": 3, "aggregate_rating": "3.9", "rating_text": "Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 9, "modified": "2018-08-17", "collection_id": 760, "collection_name": "Mealshare", "res_id": 8906346, "name": "Pizzeria Libretto", "latitude": "43.6484950000", "longitude": "-79.3850740000", "cuisines": "Pizza, Italian", "average_cost_for_two": 50, "price_range": 2, "aggregate_rating": "3.8", "rating_text": "Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 10, "modified": "2018-08-17", "collection_id": 760, "collection_name": "Mealshare", "res_id": 8909283, "name": "Glory Hole Doughnuts", "latitude": "43.6396777778", "longitude": "-79.4414444444", "cuisines": "Desserts", "average_cost_for_two": 25, "price_range": 1, "aggregate_rating": "3.8", "rating_text": "Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 11, "modified": "2018-08-17", "collection_id": 760, "collection_name": "Mealshare", "res_id": 8906883, "name": "George Street Diner", "latitude": "43.6528388889", "longitude": "-79.3715972222", "cuisines": "Diner", "average_cost_for_two": 30, "price_range": 2, "aggregate_rating": "4.1", "rating_text": "Very Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 12, "modified": "2018-08-17", "collection_id": 760, "collection_name": "Mealshare", "res_id": 8911225, "name": "Nana", "latitude": "43.6462610000", "longitude": "-79.4083520000", "cuisines": "Thai, Asian", "average_cost_for_two": 50, "price_range": 2, "aggregate_rating": "3.5", "rating_text": "Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 13, "modified": "2018-08-17", "collection_id": 760, "collection_name": "Mealshare", "res_id": 8910880, "name": "Cafe Belong", "latitude": "43.6845000000", "longitude": "-79.3659180000", "cuisines": "Canadian", "average_cost_for_two": 85, "price_range": 3, "aggregate_rating": "3.5", "rating_text": "Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 14, "modified": "2018-08-17", "collection_id": 760, "collection_name": "Mealshare", "res_id": 8910345, "name": "Fabarnak", "latitude": "43.6665110000", "longitude": "-79.3811200000", "cuisines": "Diner", "average_cost_for_two": 45, "price_range": 2, "aggregate_rating": "4.0", "rating_text": "Very Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 15, "modified": "2018-08-17", "collection_id": 760, "collection_name": "Mealshare", "res_id": 8907830, "name": "Hawthorne", "latitude": "43.6515388889", "longitude": "-79.3758555556", "cuisines": "Canadian", "average_cost_for_two": 50, "price_range": 2, "aggregate_rating": "3.6", "rating_text": "Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 1, "modified": "2018-08-17", "collection_id": 5, "collection_name": "Kickass burgers", "res_id": 8908995, "name": "The Stockyards", "latitude": "43.6815720000", "longitude": "-79.4263230000", "cuisines": "BBQ, Burger", "average_cost_for_two": 25, "price_range": 1, "aggregate_rating": "4.8", "rating_text": "Excellent", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 2, "modified": "2018-08-17", "collection_id": 5, "collection_name": "Kickass burgers", "res_id": 8909330, "name": "The Burger's Priest", "latitude": "43.6668291000", "longitude": "-79.3156416000", "cuisines": "Burger", "average_cost_for_two": 30, "price_range": 2, "aggregate_rating": "4.3", "rating_text": "Very Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 3, "modified": "2018-08-17", "collection_id": 5, "collection_name": "Kickass burgers", "res_id": 8906998, "name": "Holy Chuck Burgers", "latitude": "43.6875583333", "longitude": "-79.3930500000", "cuisines": "Burger", "average_cost_for_two": 30, "price_range": 2, "aggregate_rating": "4.1", "rating_text": "Very Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 4, "modified": "2018-08-17", "collection_id": 5, "collection_name": "Kickass burgers", "res_id": 8911057, "name": "Woody's Burgers", "latitude": "43.5924280000", "longitude": "-79.5418400000", "cuisines": "Burger, Grill", "average_cost_for_two": 40, "price_range": 2, "aggregate_rating": "4.6", "rating_text": "Excellent", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 5, "modified": "2018-08-17", "collection_id": 5, "collection_name": "Kickass burgers", "res_id": 8906322, "name": "Utopia", "latitude": "43.6553680000", "longitude": "-79.4134920000", "cuisines": "American, Mexican", "average_cost_for_two": 40, "price_range": 2, "aggregate_rating": "4.3", "rating_text": "Very Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 6, "modified": "2018-08-17", "collection_id": 5, "collection_name": "Kickass burgers", "res_id": 8904098, "name": "Big Smoke Burger", "latitude": "43.6447250000", "longitude": "-79.3996888889", "cuisines": "Burger, Fast Food", "average_cost_for_two": 25, "price_range": 1, "aggregate_rating": "4.3", "rating_text": "Very Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 7, "modified": "2018-08-17", "collection_id": 5, "collection_name": "Kickass burgers", "res_id": 8908593, "name": "Burgernator", "latitude": "43.6556027778", "longitude": "-79.4026416667", "cuisines": "Burger, Fast Food", "average_cost_for_two": 35, "price_range": 2, "aggregate_rating": "4.1", "rating_text": "Very Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 8, "modified": "2018-08-17", "collection_id": 5, "collection_name": "Kickass burgers", "res_id": 8911568, "name": "Golden Star", "latitude": "43.8017930000", "longitude": "-79.4211040000", "cuisines": "Burger, Fast Food", "average_cost_for_two": 25, "price_range": 1, "aggregate_rating": "4.4", "rating_text": "Very Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 9, "modified": "2018-08-17", "collection_id": 5, "collection_name": "Kickass burgers", "res_id": 8903532, "name": "The Burger's Priest", "latitude": "43.6484400000", "longitude": "-79.3972730000", "cuisines": "Burger", "average_cost_for_two": 30, "price_range": 2, "aggregate_rating": "3.8", "rating_text": "Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 10, "modified": "2018-08-17", "collection_id": 5, "collection_name": "Kickass burgers", "res_id": 8908687, "name": "Burger Shack", "latitude": "43.7047310000", "longitude": "-79.4059450000", "cuisines": "Burger, Fast Food", "average_cost_for_two": 30, "price_range": 2, "aggregate_rating": "4.5", "rating_text": "Excellent", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 11, "modified": "2018-08-17", "collection_id": 5, "collection_name": "Kickass burgers", "res_id": 8904889, "name": "The Burger's Priest", "latitude": "43.7325513000", "longitude": "-79.4039307000", "cuisines": "Burger", "average_cost_for_two": 30, "price_range": 2, "aggregate_rating": "3.7", "rating_text": "Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 12, "modified": "2018-08-17", "collection_id": 5, "collection_name": "Kickass burgers", "res_id": 8903745, "name": "Big Smoke Burger", "latitude": "43.6497740000", "longitude": "-79.3762010000", "cuisines": "Burger, Fast Food", "average_cost_for_two": 25, "price_range": 1, "aggregate_rating": "4.0", "rating_text": "Very Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 13, "modified": "2018-08-17", "collection_id": 5, "collection_name": "Kickass burgers", "res_id": 8900342, "name": "Mama's Boys Burgers", "latitude": "43.7085305556", "longitude": "-79.2675250000", "cuisines": "Burger, Canadian", "average_cost_for_two": 25, "price_range": 1, "aggregate_rating": "3.8", "rating_text": "Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 14, "modified": "2018-08-17", "collection_id": 5, "collection_name": "Kickass burgers", "res_id": 8909021, "name": "Dog & Bear", "latitude": "43.6434750000", "longitude": "-79.4229194444", "cuisines": "Bar Food, British", "average_cost_for_two": 55, "price_range": 2, "aggregate_rating": "3.6", "rating_text": "Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 15, "modified": "2018-08-17", "collection_id": 5, "collection_name": "Kickass burgers", "res_id": 8903850, "name": "Big Smoke Burger", "latitude": "43.6536120000", "longitude": "-79.3800600000", "cuisines": "Burger, Fast Food", "average_cost_for_two": 25, "price_range": 1, "aggregate_rating": "3.5", "rating_text": "Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 16, "modified": "2018-08-17", "collection_id": 5, "collection_name": "Kickass burgers", "res_id": 8911800, "name": "Holy Chuck Burgers", "latitude": "43.7838110000", "longitude": "-79.5711480000", "cuisines": "Burger", "average_cost_for_two": 30, "price_range": 2, "aggregate_rating": "3.5", "rating_text": "Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 17, "modified": "2018-08-17", "collection_id": 5, "collection_name": "Kickass burgers", "res_id": 8911206, "name": "Tallboys", "latitude": "43.6624750000", "longitude": "-79.4238070000", "cuisines": "Bar Food, Canadian, Burger", "average_cost_for_two": 40, "price_range": 2, "aggregate_rating": "3.9", "rating_text": "Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 1, "modified": "2018-08-17", "collection_id": 20, "collection_name": "Great breakfasts", "res_id": 8908528, "name": "Sneaky Dee's", "latitude": "43.6564972222", "longitude": "-79.4076222222", "cuisines": "Mexican, Bar Food, Tex-Mex", "average_cost_for_two": 55, "price_range": 2, "aggregate_rating": "3.9", "rating_text": "Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 2, "modified": "2018-08-17", "collection_id": 20, "collection_name": "Great breakfasts", "res_id": 8906077, "name": "Saving Grace", "latitude": "43.6508990000", "longitude": "-79.4124420000", "cuisines": "Cafe, Canadian", "average_cost_for_two": 30, "price_range": 2, "aggregate_rating": "4.0", "rating_text": "Very Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 3, "modified": "2018-08-17", "collection_id": 20, "collection_name": "Great breakfasts", "res_id": 8906960, "name": "Le Petit Dejeuner", "latitude": "43.6506980000", "longitude": "-79.3702820000", "cuisines": "Canadian, Belgian", "average_cost_for_two": 70, "price_range": 3, "aggregate_rating": "4.3", "rating_text": "Very Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 4, "modified": "2018-08-17", "collection_id": 20, "collection_name": "Great breakfasts", "res_id": 8910681, "name": "The Lakeview Restaurant", "latitude": "43.6494890000", "longitude": "-79.4203070000", "cuisines": "Canadian, Diner, Grill, Burger", "average_cost_for_two": 45, "price_range": 2, "aggregate_rating": "3.6", "rating_text": "Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 5, "modified": "2018-08-17", "collection_id": 20, "collection_name": "Great breakfasts", "res_id": 8910750, "name": "Bonjour Brioche", "latitude": "43.6597780000", "longitude": "-79.3462570000", "cuisines": "Bakery, Cafe, Breakfast", "average_cost_for_two": 35, "price_range": 2, "aggregate_rating": "4.1", "rating_text": "Very Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 6, "modified": "2018-08-17", "collection_id": 20, "collection_name": "Great breakfasts", "res_id": 8910942, "name": "Aunties & Uncles", "latitude": "43.6568330000", "longitude": "-79.4066610000", "cuisines": "Diner", "average_cost_for_two": 25, "price_range": 1, "aggregate_rating": "3.8", "rating_text": "Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 7, "modified": "2018-08-17", "collection_id": 20, "collection_name": "Great breakfasts", "res_id": 8910857, "name": "Future Bistro", "latitude": "43.6657990000", "longitude": "-79.4075720000", "cuisines": "Cafe, Polish, Desserts", "average_cost_for_two": 40, "price_range": 2, "aggregate_rating": "4.0", "rating_text": "Very Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 8, "modified": "2018-08-17", "collection_id": 20, "collection_name": "Great breakfasts", "res_id": 8903846, "name": "The Senator Restaurant", "latitude": "43.6557640000", "longitude": "-79.3791420000", "cuisines": "Canadian, Diner, Desserts", "average_cost_for_two": 50, "price_range": 2, "aggregate_rating": "3.9", "rating_text": "Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 9, "modified": "2018-08-17", "collection_id": 20, "collection_name": "Great breakfasts", "res_id": 8908482, "name": "Emma's Country Kitchen", "latitude": "43.6809467000", "longitude": "-79.4303506000", "cuisines": "Canadian", "average_cost_for_two": 25, "price_range": 1, "aggregate_rating": "4.2", "rating_text": "Very Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 10, "modified": "2018-08-17", "collection_id": 20, "collection_name": "Great breakfasts", "res_id": 8908617, "name": "Starving Artist", "latitude": "43.6787555556", "longitude": "-79.4393777778", "cuisines": "Canadian", "average_cost_for_two": 45, "price_range": 2, "aggregate_rating": "3.2", "rating_text": "Average", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 11, "modified": "2018-08-17", "collection_id": 20, "collection_name": "Great breakfasts", "res_id": 8910796, "name": "Easy Restaurant", "latitude": "43.6387022000", "longitude": "-79.4456637000", "cuisines": "Diner, Mexican", "average_cost_for_two": 45, "price_range": 2, "aggregate_rating": "4.0", "rating_text": "Very Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 12, "modified": "2018-08-17", "collection_id": 20, "collection_name": "Great breakfasts", "res_id": 8911149, "name": "Grapefruit Moon", "latitude": "43.6696760000", "longitude": "-79.4131570000", "cuisines": "Grill, Canadian", "average_cost_for_two": 30, "price_range": 2, "aggregate_rating": "3.9", "rating_text": "Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 13, "modified": "2018-08-17", "collection_id": 20, "collection_name": "Great breakfasts", "res_id": 8910966, "name": "Mitzi's Cafe", "latitude": "43.6428730000", "longitude": "-79.4422040000", "cuisines": "Cafe", "average_cost_for_two": 35, "price_range": 2, "aggregate_rating": "3.8", "rating_text": "Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 14, "modified": "2018-08-17", "collection_id": 20, "collection_name": "Great breakfasts", "res_id": 8903924, "name": "Figs", "latitude": "43.6559416667", "longitude": "-79.3647000000", "cuisines": "Diner, Breakfast", "average_cost_for_two": 40, "price_range": 2, "aggregate_rating": "3.7", "rating_text": "Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 15, "modified": "2018-08-17", "collection_id": 20, "collection_name": "Great breakfasts", "res_id": 8905319, "name": "Boom Breakfast & Co", "latitude": "43.6546710000", "longitude": "-79.4218060000", "cuisines": "Diner, Canadian", "average_cost_for_two": 45, "price_range": 2, "aggregate_rating": "3.6", "rating_text": "Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 16, "modified": "2018-08-17", "collection_id": 20, "collection_name": "Great breakfasts", "res_id": 8910340, "name": "Luna Cafe", "latitude": "43.6461795000", "longitude": "-79.4234654000", "cuisines": "Cafe", "average_cost_for_two": 30, "price_range": 2, "aggregate_rating": "3.8", "rating_text": "Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 17, "modified": "2018-08-17", "collection_id": 20, "collection_name": "Great breakfasts", "res_id": 8909174, "name": "Morning Glory", "latitude": "43.6536472222", "longitude": "-79.3611611111", "cuisines": "Cafe", "average_cost_for_two": 40, "price_range": 2, "aggregate_rating": "3.7", "rating_text": "Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 18, "modified": "2018-08-17", "collection_id": 20, "collection_name": "Great breakfasts", "res_id": 8908550, "name": "Gayley's Cafe", "latitude": "43.6494638889", "longitude": "-79.4295805556", "cuisines": "Cafe, Breakfast", "average_cost_for_two": 30, "price_range": 2, "aggregate_rating": "3.8", "rating_text": "Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 19, "modified": "2018-08-17", "collection_id": 20, "collection_name": "Great breakfasts", "res_id": 8909233, "name": "Mimi's Caffe", "latitude": "43.7074916667", "longitude": "-79.3950277778", "cuisines": "Cafe, Breakfast", "average_cost_for_two": 20, "price_range": 1, "aggregate_rating": "3.4", "rating_text": "Average", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 1, "modified": "2018-08-17", "collection_id": 6, "collection_name": "Late Night Restaurants", "res_id": 17714649, "name": "Old School", "latitude": "43.6520694444", "longitude": "-79.4085472222", "cuisines": "BBQ, American", "average_cost_for_two": 40, "price_range": 2, "aggregate_rating": "3.4", "rating_text": "Average", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 2, "modified": "2018-08-17", "collection_id": 6, "collection_name": "Late Night Restaurants", "res_id": 8905013, "name": "Burrito Boyz", "latitude": "43.6485160000", "longitude": "-79.3877440000", "cuisines": "Mexican, Fast Food", "average_cost_for_two": 25, "price_range": 1, "aggregate_rating": "4.3", "rating_text": "Very Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 3, "modified": "2018-08-17", "collection_id": 6, "collection_name": "Late Night Restaurants", "res_id": 8900782, "name": "Rol San", "latitude": "43.6540861111", "longitude": "-79.3986055556", "cuisines": "Dim Sum, Cantonese", "average_cost_for_two": 45, "price_range": 2, "aggregate_rating": "4.0", "rating_text": "Very Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 4, "modified": "2018-08-17", "collection_id": 6, "collection_name": "Late Night Restaurants", "res_id": 8908528, "name": "Sneaky Dee's", "latitude": "43.6564972222", "longitude": "-79.4076222222", "cuisines": "Mexican, Bar Food, Tex-Mex", "average_cost_for_two": 55, "price_range": 2, "aggregate_rating": "3.9", "rating_text": "Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 5, "modified": "2018-08-17", "collection_id": 6, "collection_name": "Late Night Restaurants", "res_id": 8906079, "name": "7 West Cafe", "latitude": "43.6687750000", "longitude": "-79.3868722222", "cuisines": "Cafe, Italian", "average_cost_for_two": 45, "price_range": 2, "aggregate_rating": "3.9", "rating_text": "Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 6, "modified": "2018-08-17", "collection_id": 6, "collection_name": "Late Night Restaurants", "res_id": 8904384, "name": "Fran's", "latitude": "43.6613527778", "longitude": "-79.3837583333", "cuisines": "Grill, Diner, Burger, American", "average_cost_for_two": 40, "price_range": 2, "aggregate_rating": "3.5", "rating_text": "Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 7, "modified": "2018-08-17", "collection_id": 6, "collection_name": "Late Night Restaurants", "res_id": 8910681, "name": "The Lakeview Restaurant", "latitude": "43.6494890000", "longitude": "-79.4203070000", "cuisines": "Canadian, Diner, Grill, Burger", "average_cost_for_two": 45, "price_range": 2, "aggregate_rating": "3.6", "rating_text": "Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 8, "modified": "2018-08-17", "collection_id": 6, "collection_name": "Late Night Restaurants", "res_id": 8909602, "name": "416 Snack Bar", "latitude": "43.6470750000", "longitude": "-79.4042680000", "cuisines": "Bar Food, Asian Fusion, Canadian", "average_cost_for_two": 40, "price_range": 2, "aggregate_rating": "4.1", "rating_text": "Very Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 9, "modified": "2018-08-17", "collection_id": 6, "collection_name": "Late Night Restaurants", "res_id": 8904520, "name": "Thompson Diner - Thompson Toronto Hotel", "latitude": "43.6429130000", "longitude": "-79.4019820000", "cuisines": "Diner", "average_cost_for_two": 70, "price_range": 3, "aggregate_rating": "3.5", "rating_text": "Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 10, "modified": "2018-08-17", "collection_id": 6, "collection_name": "Late Night Restaurants", "res_id": 8909032, "name": "Poutini's House of Poutine", "latitude": "43.6434055556", "longitude": "-79.4231722222", "cuisines": "Canadian", "average_cost_for_two": 25, "price_range": 1, "aggregate_rating": "4.0", "rating_text": "Very Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 11, "modified": "2018-08-17", "collection_id": 6, "collection_name": "Late Night Restaurants", "res_id": 8908687, "name": "Burger Shack", "latitude": "43.7047310000", "longitude": "-79.4059450000", "cuisines": "Burger, Fast Food", "average_cost_for_two": 30, "price_range": 2, "aggregate_rating": "4.5", "rating_text": "Excellent", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 12, "modified": "2018-08-17", "collection_id": 6, "collection_name": "Late Night Restaurants", "res_id": 8908981, "name": "Oddseoul", "latitude": "43.6461750000", "longitude": "-79.4196083333", "cuisines": "Korean, Asian Fusion, Asian", "average_cost_for_two": 60, "price_range": 3, "aggregate_rating": "4.2", "rating_text": "Very Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 13, "modified": "2018-08-17", "collection_id": 6, "collection_name": "Late Night Restaurants", "res_id": 8910248, "name": "House of Gourmet", "latitude": "43.6530194444", "longitude": "-79.3971861111", "cuisines": "Cantonese", "average_cost_for_two": 40, "price_range": 2, "aggregate_rating": "3.9", "rating_text": "Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 14, "modified": "2018-08-17", "collection_id": 6, "collection_name": "Late Night Restaurants", "res_id": 8909074, "name": "Pho Pasteur", "latitude": "43.6526666667", "longitude": "-79.3990333333", "cuisines": "Vietnamese", "average_cost_for_two": 30, "price_range": 2, "aggregate_rating": "3.7", "rating_text": "Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 15, "modified": "2018-08-17", "collection_id": 6, "collection_name": "Late Night Restaurants", "res_id": 8908592, "name": "Amico's Pizza Ristorante", "latitude": "43.6393277778", "longitude": "-79.4431750000", "cuisines": "Pizza, Italian", "average_cost_for_two": 55, "price_range": 2, "aggregate_rating": "3.8", "rating_text": "Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 16, "modified": "2018-08-17", "collection_id": 6, "collection_name": "Late Night Restaurants", "res_id": 8905459, "name": "The Owl Boo Ung Ee", "latitude": "43.6639290000", "longitude": "-79.4170430000", "cuisines": "Korean, Asian", "average_cost_for_two": 35, "price_range": 2, "aggregate_rating": "3.9", "rating_text": "Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 17, "modified": "2018-08-17", "collection_id": 6, "collection_name": "Late Night Restaurants", "res_id": 8910432, "name": "Lou Dawg's", "latitude": "43.6600715000", "longitude": "-79.3780271000", "cuisines": "BBQ, Southern, American, Bar Food", "average_cost_for_two": 40, "price_range": 2, "aggregate_rating": "3.3", "rating_text": "Average", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 18, "modified": "2018-08-17", "collection_id": 6, "collection_name": "Late Night Restaurants", "res_id": 8908645, "name": "Food & Liquor", "latitude": "43.6395722222", "longitude": "-79.4418416667", "cuisines": "Bar Food, Asian", "average_cost_for_two": 45, "price_range": 2, "aggregate_rating": "3.3", "rating_text": "Average", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 1, "modified": "2018-08-17", "collection_id": 19, "collection_name": "Veggie friendly", "res_id": 8904233, "name": "Sabai Sabai", "latitude": "43.6696454000", "longitude": "-79.3878137000", "cuisines": "Thai, Asian, Tapas", "average_cost_for_two": 50, "price_range": 2, "aggregate_rating": "4.2", "rating_text": "Very Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 2, "modified": "2018-08-17", "collection_id": 19, "collection_name": "Veggie friendly", "res_id": 8904958, "name": "Fresh", "latitude": "43.6481200000", "longitude": "-79.3956790000", "cuisines": "Healthy Food, Juices", "average_cost_for_two": 40, "price_range": 2, "aggregate_rating": "3.8", "rating_text": "Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 3, "modified": "2018-08-17", "collection_id": 19, "collection_name": "Veggie friendly", "res_id": 8906718, "name": "Fresh", "latitude": "43.6669360000", "longitude": "-79.4034720000", "cuisines": "Healthy Food, Juices", "average_cost_for_two": 40, "price_range": 2, "aggregate_rating": "4.1", "rating_text": "Very Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 4, "modified": "2018-08-17", "collection_id": 19, "collection_name": "Veggie friendly", "res_id": 8908672, "name": "Wanda's Pie In The Sky", "latitude": "43.6561500000", "longitude": "-79.4026250000", "cuisines": "Bakery, Cafe, Desserts", "average_cost_for_two": 25, "price_range": 1, "aggregate_rating": "4.0", "rating_text": "Very Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 5, "modified": "2018-08-17", "collection_id": 19, "collection_name": "Veggie friendly", "res_id": 8911204, "name": "The Hogtown Vegan", "latitude": "43.6607040000", "longitude": "-79.4326150000", "cuisines": "Canadian", "average_cost_for_two": 40, "price_range": 2, "aggregate_rating": "3.8", "rating_text": "Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 6, "modified": "2018-08-17", "collection_id": 19, "collection_name": "Veggie friendly", "res_id": 8910083, "name": "Vegetarian Haven", "latitude": "43.6561388889", "longitude": "-79.3928222222", "cuisines": "Healthy Food, Asian", "average_cost_for_two": 45, "price_range": 2, "aggregate_rating": "4.2", "rating_text": "Very Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 7, "modified": "2018-08-17", "collection_id": 19, "collection_name": "Veggie friendly", "res_id": 8909010, "name": "Live Organic Food Bar", "latitude": "43.6750000000", "longitude": "-79.4067083333", "cuisines": "Healthy Food", "average_cost_for_two": 60, "price_range": 3, "aggregate_rating": "4.0", "rating_text": "Very Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 8, "modified": "2018-08-17", "collection_id": 19, "collection_name": "Veggie friendly", "res_id": 8907399, "name": "Harvest Kitchen", "latitude": "43.6627640000", "longitude": "-79.4043650000", "cuisines": "Modern European, Fusion", "average_cost_for_two": 55, "price_range": 2, "aggregate_rating": "3.7", "rating_text": "Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 9, "modified": "2018-08-17", "collection_id": 19, "collection_name": "Veggie friendly", "res_id": 8905181, "name": "Fresh", "latitude": "43.6449740000", "longitude": "-79.4150010000", "cuisines": "Healthy Food, Juices", "average_cost_for_two": 40, "price_range": 2, "aggregate_rating": "3.9", "rating_text": "Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 10, "modified": "2018-08-17", "collection_id": 19, "collection_name": "Veggie friendly", "res_id": 8909347, "name": "Hibiscus Cafe", "latitude": "43.6554250000", "longitude": "-79.4024500000", "cuisines": "Cafe, Healthy Food", "average_cost_for_two": 15, "price_range": 1, "aggregate_rating": "4.2", "rating_text": "Very Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 11, "modified": "2018-08-17", "collection_id": 19, "collection_name": "Veggie friendly", "res_id": 8909717, "name": "The Beet", "latitude": "43.6653370000", "longitude": "-79.4673460000", "cuisines": "Canadian, Healthy Food", "average_cost_for_two": 35, "price_range": 2, "aggregate_rating": "4.0", "rating_text": "Very Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 12, "modified": "2018-08-17", "collection_id": 19, "collection_name": "Veggie friendly", "res_id": 8911602, "name": "One Love Vegetarian", "latitude": "43.6666860000", "longitude": "-79.4119650000", "cuisines": "Caribbean, Healthy Food", "average_cost_for_two": 25, "price_range": 1, "aggregate_rating": "4.2", "rating_text": "Very Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 13, "modified": "2018-08-17", "collection_id": 19, "collection_name": "Veggie friendly", "res_id": 8907820, "name": "Fresh", "latitude": "43.7073777778", "longitude": "-79.3955777778", "cuisines": "Healthy Food, Juices", "average_cost_for_two": 40, "price_range": 2, "aggregate_rating": "3.6", "rating_text": "Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 14, "modified": "2018-08-17", "collection_id": 19, "collection_name": "Veggie friendly", "res_id": 8903964, "name": "Coco Rice", "latitude": "43.6439166667", "longitude": "-79.4026944444", "cuisines": "Thai, Asian", "average_cost_for_two": 45, "price_range": 2, "aggregate_rating": "3.8", "rating_text": "Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 15, "modified": "2018-08-17", "collection_id": 19, "collection_name": "Veggie friendly", "res_id": 8910880, "name": "Cafe Belong", "latitude": "43.6845000000", "longitude": "-79.3659180000", "cuisines": "Canadian", "average_cost_for_two": 85, "price_range": 3, "aggregate_rating": "3.5", "rating_text": "Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 16, "modified": "2018-08-17", "collection_id": 19, "collection_name": "Veggie friendly", "res_id": 8907045, "name": "APieCalypse Now", "latitude": "43.6634040000", "longitude": "-79.4186440000", "cuisines": "Pizza, Bakery, Ice Cream", "average_cost_for_two": 30, "price_range": 2, "aggregate_rating": "3.5", "rating_text": "Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 17, "modified": "2018-08-17", "collection_id": 19, "collection_name": "Veggie friendly", "res_id": 8908898, "name": "Green Earth", "latitude": "43.6660450000", "longitude": "-79.3526960000", "cuisines": "Healthy Food", "average_cost_for_two": 35, "price_range": 2, "aggregate_rating": "3.9", "rating_text": "Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 18, "modified": "2018-08-17", "collection_id": 19, "collection_name": "Veggie friendly", "res_id": 8911476, "name": "Doug's Public Kitchen", "latitude": "43.7093790000", "longitude": "-79.4437530000", "cuisines": "Healthy Food, Diner", "average_cost_for_two": 35, "price_range": 2, "aggregate_rating": "3.3", "rating_text": "Average", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 19, "modified": "2018-08-17", "collection_id": 19, "collection_name": "Veggie friendly", "res_id": 8904579, "name": "YamChops", "latitude": "43.6551583333", "longitude": "-79.4180055556", "cuisines": "Healthy Food, Juices", "average_cost_for_two": 25, "price_range": 1, "aggregate_rating": "3.6", "rating_text": "Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 20, "modified": "2018-08-17", "collection_id": 19, "collection_name": "Veggie friendly", "res_id": 8911114, "name": "Govinda's", "latitude": "43.6769570000", "longitude": "-79.3972150000", "cuisines": "Indian", "average_cost_for_two": 30, "price_range": 2, "aggregate_rating": "3.3", "rating_text": "Average", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 21, "modified": "2018-08-17", "collection_id": 19, "collection_name": "Veggie friendly", "res_id": 8909331, "name": "E. L. Ruddy Co. Cafe", "latitude": "43.6495083333", "longitude": "-79.4277194444", "cuisines": "Cafe", "average_cost_for_two": 30, "price_range": 2, "aggregate_rating": "3.3", "rating_text": "Average", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 22, "modified": "2018-08-17", "collection_id": 19, "collection_name": "Veggie friendly", "res_id": 8911381, "name": "The Green Beet", "latitude": "43.6620740000", "longitude": "-79.3936420000", "cuisines": "Cafe", "average_cost_for_two": 20, "price_range": 1, "aggregate_rating": "0", "rating_text": "Not rated", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 23, "modified": "2018-08-17", "collection_id": 19, "collection_name": "Veggie friendly", "res_id": 8911444, "name": "Harvest Noon", "latitude": "43.6607910000", "longitude": "-79.4002770000", "cuisines": "Healthy Food, Cafe", "average_cost_for_two": 20, "price_range": 1, "aggregate_rating": "3.2", "rating_text": "Average", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 1, "modified": "2018-08-17", "collection_id": 12, "collection_name": "Pocket friendly", "res_id": 8905563, "name": "Banh Mi Boys", "latitude": "43.6487360000", "longitude": "-79.3969520000", "cuisines": "Sandwich", "average_cost_for_two": 25, "price_range": 1, "aggregate_rating": "4.9", "rating_text": "Excellent", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 2, "modified": "2018-08-17", "collection_id": 12, "collection_name": "Pocket friendly", "res_id": 8906283, "name": "Buk Chang Dong Soon Tofu", "latitude": "43.6640166667", "longitude": "-79.4170222222", "cuisines": "Korean", "average_cost_for_two": 30, "price_range": 2, "aggregate_rating": "4.6", "rating_text": "Excellent", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 3, "modified": "2018-08-17", "collection_id": 12, "collection_name": "Pocket friendly", "res_id": 8908528, "name": "Sneaky Dee's", "latitude": "43.6564972222", "longitude": "-79.4076222222", "cuisines": "Mexican, Bar Food, Tex-Mex", "average_cost_for_two": 55, "price_range": 2, "aggregate_rating": "3.9", "rating_text": "Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 4, "modified": "2018-08-17", "collection_id": 12, "collection_name": "Pocket friendly", "res_id": 8905432, "name": "Tacos El Asador", "latitude": "43.6639350000", "longitude": "-79.4171230000", "cuisines": "Fast Food, Mexican", "average_cost_for_two": 25, "price_range": 1, "aggregate_rating": "4.6", "rating_text": "Excellent", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 5, "modified": "2018-08-17", "collection_id": 12, "collection_name": "Pocket friendly", "res_id": 8908758, "name": "Banh Mi Boys", "latitude": "43.6589388889", "longitude": "-79.3822416667", "cuisines": "Sandwich", "average_cost_for_two": 25, "price_range": 1, "aggregate_rating": "4.2", "rating_text": "Very Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 6, "modified": "2018-08-17", "collection_id": 12, "collection_name": "Pocket friendly", "res_id": 8910352, "name": "Manpuku", "latitude": "43.6536638889", "longitude": "-79.3905500000", "cuisines": "Japanese", "average_cost_for_two": 30, "price_range": 2, "aggregate_rating": "4.3", "rating_text": "Very Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 7, "modified": "2018-08-17", "collection_id": 12, "collection_name": "Pocket friendly", "res_id": 8907425, "name": "El Furniture Warehouse", "latitude": "43.6659210000", "longitude": "-79.4079960000", "cuisines": "American, Bar Food", "average_cost_for_two": 30, "price_range": 2, "aggregate_rating": "3.6", "rating_text": "Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 8, "modified": "2018-08-17", "collection_id": 12, "collection_name": "Pocket friendly", "res_id": 8906210, "name": "Pho Tien Thanh", "latitude": "43.6455050000", "longitude": "-79.4191630000", "cuisines": "Vietnamese, Asian", "average_cost_for_two": 30, "price_range": 2, "aggregate_rating": "4.0", "rating_text": "Very Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 9, "modified": "2018-08-17", "collection_id": 12, "collection_name": "Pocket friendly", "res_id": 8909445, "name": "Rasta Pasta", "latitude": "43.6543476000", "longitude": "-79.4004314000", "cuisines": "Jamaican, Italian", "average_cost_for_two": 25, "price_range": 1, "aggregate_rating": "3.9", "rating_text": "Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 10, "modified": "2018-08-17", "collection_id": 12, "collection_name": "Pocket friendly", "res_id": 8907456, "name": "Nirvana", "latitude": "43.6566990000", "longitude": "-79.4072750000", "cuisines": "Asian Fusion, American", "average_cost_for_two": 50, "price_range": 2, "aggregate_rating": "3.9", "rating_text": "Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 11, "modified": "2018-08-17", "collection_id": 12, "collection_name": "Pocket friendly", "res_id": 8909682, "name": "Nguyen Huong", "latitude": "43.6536861111", "longitude": "-79.3984972222", "cuisines": "Vietnamese", "average_cost_for_two": 10, "price_range": 1, "aggregate_rating": "3.9", "rating_text": "Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 12, "modified": "2018-08-17", "collection_id": 12, "collection_name": "Pocket friendly", "res_id": 8910751, "name": "Moo Frites", "latitude": "43.6548670000", "longitude": "-79.4006961000", "cuisines": "Fast Food, Belgian", "average_cost_for_two": 20, "price_range": 1, "aggregate_rating": "3.7", "rating_text": "Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 13, "modified": "2018-08-17", "collection_id": 12, "collection_name": "Pocket friendly", "res_id": 8910935, "name": "Rashers", "latitude": "43.6608850000", "longitude": "-79.3412370000", "cuisines": "Fast Food", "average_cost_for_two": 20, "price_range": 1, "aggregate_rating": "4.2", "rating_text": "Very Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 14, "modified": "2018-08-17", "collection_id": 12, "collection_name": "Pocket friendly", "res_id": 8909664, "name": "Gushi", "latitude": "43.6521083333", "longitude": "-79.4048000000", "cuisines": "Japanese", "average_cost_for_two": 25, "price_range": 1, "aggregate_rating": "3.8", "rating_text": "Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 15, "modified": "2018-08-17", "collection_id": 12, "collection_name": "Pocket friendly", "res_id": 8906296, "name": "TLP Sandwich Co.", "latitude": "43.6578055556", "longitude": "-79.3825305556", "cuisines": "Fast Food, Steak, Burger, Deli, Sandwich", "average_cost_for_two": 20, "price_range": 1, "aggregate_rating": "3.6", "rating_text": "Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 16, "modified": "2018-08-17", "collection_id": 12, "collection_name": "Pocket friendly", "res_id": 8911256, "name": "The Original San Francesco", "latitude": "43.6540220000", "longitude": "-79.4134200000", "cuisines": "Italian", "average_cost_for_two": 25, "price_range": 1, "aggregate_rating": "4.1", "rating_text": "Very Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 17, "modified": "2018-08-17", "collection_id": 12, "collection_name": "Pocket friendly", "res_id": 8908036, "name": "Kupfert & Kim", "latitude": "43.6485333333", "longitude": "-79.3817666667", "cuisines": "Cafe, Healthy Food", "average_cost_for_two": 30, "price_range": 2, "aggregate_rating": "3.6", "rating_text": "Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 18, "modified": "2018-08-17", "collection_id": 12, "collection_name": "Pocket friendly", "res_id": 8909774, "name": "Furama", "latitude": "43.6516194444", "longitude": "-79.3974916667", "cuisines": "Bakery, Chinese", "average_cost_for_two": 20, "price_range": 1, "aggregate_rating": "3.7", "rating_text": "Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 19, "modified": "2018-08-17", "collection_id": 12, "collection_name": "Pocket friendly", "res_id": 8908874, "name": "Bolt  Fresh Bar", "latitude": "43.6429260000", "longitude": "-79.4255410000", "cuisines": "Juices, Healthy Food, Beverages", "average_cost_for_two": 35, "price_range": 2, "aggregate_rating": "3.2", "rating_text": "Average", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 20, "modified": "2018-08-17", "collection_id": 12, "collection_name": "Pocket friendly", "res_id": 8908137, "name": "Emporium Latino", "latitude": "43.6548277778", "longitude": "-79.4020694444", "cuisines": "Latin American", "average_cost_for_two": 20, "price_range": 1, "aggregate_rating": "3.5", "rating_text": "Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 21, "modified": "2018-08-17", "collection_id": 12, "collection_name": "Pocket friendly", "res_id": 8909029, "name": "Banh Mi Ba Le", "latitude": "43.6526916667", "longitude": "-79.3991305556", "cuisines": "Vietnamese", "average_cost_for_two": 15, "price_range": 1, "aggregate_rating": "3.4", "rating_text": "Average", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 22, "modified": "2018-08-17", "collection_id": 12, "collection_name": "Pocket friendly", "res_id": 8909806, "name": "Ravi Soups", "latitude": "43.6616100000", "longitude": "-79.4552610000", "cuisines": "Sri Lankan, Healthy Food", "average_cost_for_two": 35, "price_range": 2, "aggregate_rating": "3.7", "rating_text": "Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 23, "modified": "2018-08-17", "collection_id": 12, "collection_name": "Pocket friendly", "res_id": 8908676, "name": "Dundas Park Kitchen", "latitude": "43.6520361111", "longitude": "-79.4479305556", "cuisines": "Cafe, Bakery, Desserts", "average_cost_for_two": 30, "price_range": 2, "aggregate_rating": "3.2", "rating_text": "Average", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 1, "modified": "2018-08-17", "collection_id": 65, "collection_name": "Super sushi", "res_id": 8905525, "name": "Japango", "latitude": "43.6550972222", "longitude": "-79.3850333333", "cuisines": "Sushi, Japanese, Asian", "average_cost_for_two": 140, "price_range": 4, "aggregate_rating": "4.4", "rating_text": "Very Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 2, "modified": "2018-08-17", "collection_id": 65, "collection_name": "Super sushi", "res_id": 8905293, "name": "JaBistro", "latitude": "43.6498410000", "longitude": "-79.3882810000", "cuisines": "Sushi", "average_cost_for_two": 100, "price_range": 4, "aggregate_rating": "4.6", "rating_text": "Excellent", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 3, "modified": "2018-08-17", "collection_id": 65, "collection_name": "Super sushi", "res_id": 8901556, "name": "Le Cafe Michi", "latitude": "43.7754972222", "longitude": "-79.3181000000", "cuisines": "Sushi, Japanese, Asian", "average_cost_for_two": 55, "price_range": 2, "aggregate_rating": "4.1", "rating_text": "Very Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 4, "modified": "2018-08-17", "collection_id": 65, "collection_name": "Super sushi", "res_id": 8901409, "name": "Sushi Kaji", "latitude": "43.6247100000", "longitude": "-79.5095290000", "cuisines": "Sushi", "average_cost_for_two": 160, "price_range": 4, "aggregate_rating": "4.2", "rating_text": "Very Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 5, "modified": "2018-08-17", "collection_id": 65, "collection_name": "Super sushi", "res_id": 8905653, "name": "Yuzu No Hana", "latitude": "43.6483260000", "longitude": "-79.3883660000", "cuisines": "Sushi, Japanese, Asian", "average_cost_for_two": 75, "price_range": 3, "aggregate_rating": "4.3", "rating_text": "Very Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 6, "modified": "2018-08-17", "collection_id": 65, "collection_name": "Super sushi", "res_id": 8906837, "name": "Yasu", "latitude": "43.6627380000", "longitude": "-79.4029300000", "cuisines": "Sushi, Japanese, Asian", "average_cost_for_two": 160, "price_range": 4, "aggregate_rating": "4.1", "rating_text": "Very Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 7, "modified": "2018-08-17", "collection_id": 65, "collection_name": "Super sushi", "res_id": 8904398, "name": "Shinobu", "latitude": "43.7325914000", "longitude": "-79.4041689000", "cuisines": "Sushi, Japanese", "average_cost_for_two": 30, "price_range": 2, "aggregate_rating": "4.5", "rating_text": "Excellent", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 8, "modified": "2018-08-17", "collection_id": 65, "collection_name": "Super sushi", "res_id": 8901150, "name": "Zen", "latitude": "43.8292250000", "longitude": "-79.3533500000", "cuisines": "Sushi, Japanese, Asian", "average_cost_for_two": 80, "price_range": 3, "aggregate_rating": "4.2", "rating_text": "Very Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 9, "modified": "2018-08-17", "collection_id": 65, "collection_name": "Super sushi", "res_id": 8909872, "name": "ND Sushi & Grill", "latitude": "43.6573020000", "longitude": "-79.4046800000", "cuisines": "Sushi", "average_cost_for_two": 50, "price_range": 2, "aggregate_rating": "4.6", "rating_text": "Excellent", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 10, "modified": "2018-08-17", "collection_id": 65, "collection_name": "Super sushi", "res_id": 8905041, "name": "Wow Sushi", "latitude": "43.6686472222", "longitude": "-79.3870388889", "cuisines": "Sushi, Japanese, Asian", "average_cost_for_two": 40, "price_range": 2, "aggregate_rating": "3.9", "rating_text": "Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 11, "modified": "2018-08-17", "collection_id": 65, "collection_name": "Super sushi", "res_id": 8907751, "name": "Sushi Couture", "latitude": "43.6656930000", "longitude": "-79.4091460000", "cuisines": "Sushi, Japanese, Asian", "average_cost_for_two": 45, "price_range": 2, "aggregate_rating": "4.0", "rating_text": "Very Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 12, "modified": "2018-08-17", "collection_id": 65, "collection_name": "Super sushi", "res_id": 8902281, "name": "Inakaya", "latitude": "43.7651320000", "longitude": "-79.4002810000", "cuisines": "Sushi, Japanese, Asian", "average_cost_for_two": 40, "price_range": 2, "aggregate_rating": "3.9", "rating_text": "Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 13, "modified": "2018-08-17", "collection_id": 65, "collection_name": "Super sushi", "res_id": 8910785, "name": "Mazz Sushi", "latitude": "43.6609221000", "longitude": "-79.4299920000", "cuisines": "Sushi, Japanese, Asian", "average_cost_for_two": 40, "price_range": 2, "aggregate_rating": "4.3", "rating_text": "Very Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 14, "modified": "2018-08-17", "collection_id": 65, "collection_name": "Super sushi", "res_id": 8910120, "name": "Konnichiwa", "latitude": "43.6559333333", "longitude": "-79.3933500000", "cuisines": "Sushi", "average_cost_for_two": 40, "price_range": 2, "aggregate_rating": "3.9", "rating_text": "Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 15, "modified": "2018-08-17", "collection_id": 65, "collection_name": "Super sushi", "res_id": 8905840, "name": "Hiro Sushi", "latitude": "43.6504670000", "longitude": "-79.3712110000", "cuisines": "Sushi, Japanese, Asian", "average_cost_for_two": 75, "price_range": 3, "aggregate_rating": "3.6", "rating_text": "Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 16, "modified": "2018-08-17", "collection_id": 65, "collection_name": "Super sushi", "res_id": 8907422, "name": "Bazara", "latitude": "43.6484944444", "longitude": "-79.4204861111", "cuisines": "Sushi, Japanese, Asian", "average_cost_for_two": 65, "price_range": 3, "aggregate_rating": "3.7", "rating_text": "Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 17, "modified": "2018-08-17", "collection_id": 65, "collection_name": "Super sushi", "res_id": 8907368, "name": "Epicure City BOM", "latitude": "43.6585160000", "longitude": "-79.3851437000", "cuisines": "Korean", "average_cost_for_two": 30, "price_range": 2, "aggregate_rating": "3.9", "rating_text": "Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 1, "modified": "2018-08-17", "collection_id": 40, "collection_name": "Sweet tooth", "res_id": 8904879, "name": "Nad\u00e8ge", "latitude": "43.6457910000", "longitude": "-79.4114250000", "cuisines": "Desserts, Patisserie, Cafe", "average_cost_for_two": 20, "price_range": 1, "aggregate_rating": "4.5", "rating_text": "Excellent", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 2, "modified": "2018-08-17", "collection_id": 40, "collection_name": "Sweet tooth", "res_id": 8908672, "name": "Wanda's Pie In The Sky", "latitude": "43.6561500000", "longitude": "-79.4026250000", "cuisines": "Bakery, Cafe, Desserts", "average_cost_for_two": 25, "price_range": 1, "aggregate_rating": "4.0", "rating_text": "Very Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 3, "modified": "2018-08-17", "collection_id": 40, "collection_name": "Sweet tooth", "res_id": 8909325, "name": "Soma Chocolate Maker", "latitude": "43.6506888889", "longitude": "-79.3581861111", "cuisines": "Desserts, Coffee and Tea", "average_cost_for_two": 15, "price_range": 1, "aggregate_rating": "4.3", "rating_text": "Very Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 4, "modified": "2018-08-17", "collection_id": 40, "collection_name": "Sweet tooth", "res_id": 8904075, "name": "Prairie Girl Bakery", "latitude": "43.6494610000", "longitude": "-79.3770240000", "cuisines": "Desserts", "average_cost_for_two": 15, "price_range": 1, "aggregate_rating": "3.8", "rating_text": "Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 5, "modified": "2018-08-17", "collection_id": 40, "collection_name": "Sweet tooth", "res_id": 8905747, "name": "Bobbette & Belle", "latitude": "43.6621166667", "longitude": "-79.3348611111", "cuisines": "Bakery, Desserts", "average_cost_for_two": 20, "price_range": 1, "aggregate_rating": "3.7", "rating_text": "Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 6, "modified": "2018-08-17", "collection_id": 40, "collection_name": "Sweet tooth", "res_id": 8910317, "name": "Soma Chocolate Maker", "latitude": "43.6451700000", "longitude": "-79.3958030000", "cuisines": "Desserts, Cafe", "average_cost_for_two": 15, "price_range": 1, "aggregate_rating": "4.2", "rating_text": "Very Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 7, "modified": "2018-08-17", "collection_id": 40, "collection_name": "Sweet tooth", "res_id": 8904110, "name": "Butter Avenue", "latitude": "43.7342060000", "longitude": "-79.4043020000", "cuisines": "Patisserie, Desserts", "average_cost_for_two": 20, "price_range": 1, "aggregate_rating": "3.9", "rating_text": "Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 8, "modified": "2018-08-17", "collection_id": 40, "collection_name": "Sweet tooth", "res_id": 8905275, "name": "Dufflet Pastries", "latitude": "43.6462090000", "longitude": "-79.4084150000", "cuisines": "Desserts", "average_cost_for_two": 25, "price_range": 1, "aggregate_rating": "3.9", "rating_text": "Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 9, "modified": "2018-08-17", "collection_id": 40, "collection_name": "Sweet tooth", "res_id": 8909670, "name": "Sweet Flour", "latitude": "43.6501730000", "longitude": "-79.4811940000", "cuisines": "Bakery", "average_cost_for_two": 15, "price_range": 1, "aggregate_rating": "4.3", "rating_text": "Very Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 10, "modified": "2018-08-17", "collection_id": 40, "collection_name": "Sweet tooth", "res_id": 8905032, "name": "Dlish Cupcakes", "latitude": "43.6459460000", "longitude": "-79.4096390000", "cuisines": "Desserts", "average_cost_for_two": 25, "price_range": 1, "aggregate_rating": "3.5", "rating_text": "Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 11, "modified": "2018-08-17", "collection_id": 40, "collection_name": "Sweet tooth", "res_id": 8904733, "name": "Butter Avenue", "latitude": "43.6484130000", "longitude": "-79.3978200000", "cuisines": "Patisserie, Desserts", "average_cost_for_two": 20, "price_range": 1, "aggregate_rating": "3.4", "rating_text": "Average", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 12, "modified": "2018-08-17", "collection_id": 40, "collection_name": "Sweet tooth", "res_id": 8903427, "name": "The Rolling Pin", "latitude": "43.7334414000", "longitude": "-79.4041694000", "cuisines": "Desserts", "average_cost_for_two": 20, "price_range": 1, "aggregate_rating": "3.4", "rating_text": "Average", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 13, "modified": "2018-08-17", "collection_id": 40, "collection_name": "Sweet tooth", "res_id": 8910983, "name": "Bake Shoppe", "latitude": "43.6542110000", "longitude": "-79.4235230000", "cuisines": "Desserts, Bakery", "average_cost_for_two": 15, "price_range": 1, "aggregate_rating": "3.7", "rating_text": "Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 14, "modified": "2018-08-17", "collection_id": 40, "collection_name": "Sweet tooth", "res_id": 8909722, "name": "Bunner's", "latitude": "43.6655200000", "longitude": "-79.4713750000", "cuisines": "Desserts, Bakery", "average_cost_for_two": 15, "price_range": 1, "aggregate_rating": "3.5", "rating_text": "Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 15, "modified": "2018-08-17", "collection_id": 40, "collection_name": "Sweet tooth", "res_id": 8910602, "name": "Rahier Patisserie", "latitude": "43.7057611111", "longitude": "-79.3753361111", "cuisines": "Patisserie, Desserts, Cafe", "average_cost_for_two": 20, "price_range": 1, "aggregate_rating": "3.8", "rating_text": "Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 16, "modified": "2018-08-17", "collection_id": 40, "collection_name": "Sweet tooth", "res_id": 8909016, "name": "Phipps Bakery Cafe", "latitude": "43.7040640000", "longitude": "-79.4109880000", "cuisines": "Desserts, Cafe", "average_cost_for_two": 25, "price_range": 1, "aggregate_rating": "3.5", "rating_text": "Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 17, "modified": "2018-08-17", "collection_id": 40, "collection_name": "Sweet tooth", "res_id": 8908469, "name": "Desmond & Beatrice", "latitude": "43.6664290000", "longitude": "-79.3426890000", "cuisines": "Desserts", "average_cost_for_two": 20, "price_range": 1, "aggregate_rating": "3.5", "rating_text": "Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 18, "modified": "2018-08-17", "collection_id": 40, "collection_name": "Sweet tooth", "res_id": 8907920, "name": "Life is Sweet", "latitude": "43.6721390000", "longitude": "-79.2894850000", "cuisines": "Desserts", "average_cost_for_two": 20, "price_range": 1, "aggregate_rating": "3.8", "rating_text": "Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 19, "modified": "2018-08-17", "collection_id": 40, "collection_name": "Sweet tooth", "res_id": 8910740, "name": "Dufflet Pastries", "latitude": "43.7156820000", "longitude": "-79.4002520000", "cuisines": "Desserts", "average_cost_for_two": 25, "price_range": 1, "aggregate_rating": "3.4", "rating_text": "Average", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 20, "modified": "2018-08-17", "collection_id": 40, "collection_name": "Sweet tooth", "res_id": 8909242, "name": "CHOCOSOL", "latitude": "43.6782800000", "longitude": "-79.4412160000", "cuisines": "Desserts, Cafe", "average_cost_for_two": 15, "price_range": 1, "aggregate_rating": "0", "rating_text": "Not rated", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 1, "modified": "2018-08-17", "collection_id": 125, "collection_name": "Weekend Brunches", "res_id": 8908995, "name": "The Stockyards", "latitude": "43.6815720000", "longitude": "-79.4263230000", "cuisines": "BBQ, Burger", "average_cost_for_two": 25, "price_range": 1, "aggregate_rating": "4.8", "rating_text": "Excellent", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 2, "modified": "2018-08-17", "collection_id": 125, "collection_name": "Weekend Brunches", "res_id": 8909239, "name": "Barque Smokehouse", "latitude": "43.6483540000", "longitude": "-79.4496310000", "cuisines": "BBQ, Grill", "average_cost_for_two": 70, "price_range": 3, "aggregate_rating": "4.5", "rating_text": "Excellent", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 3, "modified": "2018-08-17", "collection_id": 125, "collection_name": "Weekend Brunches", "res_id": 8910871, "name": "School Bakery Cafe", "latitude": "43.6378450000", "longitude": "-79.4243580000", "cuisines": "Diner, American", "average_cost_for_two": 50, "price_range": 2, "aggregate_rating": "4.2", "rating_text": "Very Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 4, "modified": "2018-08-17", "collection_id": 125, "collection_name": "Weekend Brunches", "res_id": 8910835, "name": "Farmhouse Tavern", "latitude": "43.6649060000", "longitude": "-79.4556300000", "cuisines": "Bar Food, Canadian", "average_cost_for_two": 65, "price_range": 3, "aggregate_rating": "4.1", "rating_text": "Very Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 5, "modified": "2018-08-17", "collection_id": 125, "collection_name": "Weekend Brunches", "res_id": 8906077, "name": "Saving Grace", "latitude": "43.6508990000", "longitude": "-79.4124420000", "cuisines": "Cafe, Canadian", "average_cost_for_two": 30, "price_range": 2, "aggregate_rating": "4.0", "rating_text": "Very Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 6, "modified": "2018-08-17", "collection_id": 125, "collection_name": "Weekend Brunches", "res_id": 8910829, "name": "Lady Marmalade", "latitude": "43.6605060000", "longitude": "-79.3428980000", "cuisines": "Mexican", "average_cost_for_two": 40, "price_range": 2, "aggregate_rating": "4.3", "rating_text": "Very Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 7, "modified": "2018-08-17", "collection_id": 125, "collection_name": "Weekend Brunches", "res_id": 8904711, "name": "Beast", "latitude": "43.6440860000", "longitude": "-79.4056810000", "cuisines": "Canadian", "average_cost_for_two": 65, "price_range": 3, "aggregate_rating": "4.2", "rating_text": "Very Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 8, "modified": "2018-08-17", "collection_id": 125, "collection_name": "Weekend Brunches", "res_id": 8910750, "name": "Bonjour Brioche", "latitude": "43.6597780000", "longitude": "-79.3462570000", "cuisines": "Bakery, Cafe, Breakfast", "average_cost_for_two": 35, "price_range": 2, "aggregate_rating": "4.1", "rating_text": "Very Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 9, "modified": "2018-08-17", "collection_id": 125, "collection_name": "Weekend Brunches", "res_id": 8907439, "name": "The Queen And Beaver Public House", "latitude": "43.6578138889", "longitude": "-79.3832638889", "cuisines": "British, Bar Food", "average_cost_for_two": 70, "price_range": 3, "aggregate_rating": "4.1", "rating_text": "Very Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 10, "modified": "2018-08-17", "collection_id": 125, "collection_name": "Weekend Brunches", "res_id": 8909446, "name": "Rose & Sons", "latitude": "43.6756055556", "longitude": "-79.4036861111", "cuisines": "American, Fusion", "average_cost_for_two": 70, "price_range": 3, "aggregate_rating": "4.0", "rating_text": "Very Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 11, "modified": "2018-08-17", "collection_id": 125, "collection_name": "Weekend Brunches", "res_id": 8908482, "name": "Emma's Country Kitchen", "latitude": "43.6809467000", "longitude": "-79.4303506000", "cuisines": "Canadian", "average_cost_for_two": 25, "price_range": 1, "aggregate_rating": "4.2", "rating_text": "Very Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 12, "modified": "2018-08-17", "collection_id": 125, "collection_name": "Weekend Brunches", "res_id": 8910582, "name": "Smith", "latitude": "43.6669930000", "longitude": "-79.3813270000", "cuisines": "European", "average_cost_for_two": 90, "price_range": 3, "aggregate_rating": "3.6", "rating_text": "Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 13, "modified": "2018-08-17", "collection_id": 125, "collection_name": "Weekend Brunches", "res_id": 8908625, "name": "Coquine Restaurant", "latitude": "43.7026250000", "longitude": "-79.3973777778", "cuisines": "French", "average_cost_for_two": 75, "price_range": 3, "aggregate_rating": "3.8", "rating_text": "Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 14, "modified": "2018-08-17", "collection_id": 125, "collection_name": "Weekend Brunches", "res_id": 8907489, "name": "The Federal", "latitude": "43.6495944444", "longitude": "-79.4301444444", "cuisines": "Fusion", "average_cost_for_two": 45, "price_range": 2, "aggregate_rating": "3.8", "rating_text": "Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 15, "modified": "2018-08-17", "collection_id": 125, "collection_name": "Weekend Brunches", "res_id": 8910966, "name": "Mitzi's Cafe", "latitude": "43.6428730000", "longitude": "-79.4422040000", "cuisines": "Cafe", "average_cost_for_two": 35, "price_range": 2, "aggregate_rating": "3.8", "rating_text": "Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 16, "modified": "2018-08-17", "collection_id": 125, "collection_name": "Weekend Brunches", "res_id": 8907768, "name": "Fanny Chadwick's", "latitude": "43.6735290000", "longitude": "-79.4119190000", "cuisines": "Canadian, Diner", "average_cost_for_two": 55, "price_range": 2, "aggregate_rating": "3.6", "rating_text": "Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 17, "modified": "2018-08-17", "collection_id": 125, "collection_name": "Weekend Brunches", "res_id": 8910340, "name": "Luna Cafe", "latitude": "43.6461795000", "longitude": "-79.4234654000", "cuisines": "Cafe", "average_cost_for_two": 30, "price_range": 2, "aggregate_rating": "3.8", "rating_text": "Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 1, "modified": "2018-08-17", "collection_id": 48, "collection_name": "Super seafood", "res_id": 8904604, "name": "Rodney's Oyster House", "latitude": "43.6442722222", "longitude": "-79.3967222222", "cuisines": "Seafood", "average_cost_for_two": 75, "price_range": 3, "aggregate_rating": "4.5", "rating_text": "Excellent", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 2, "modified": "2018-08-17", "collection_id": 48, "collection_name": "Super seafood", "res_id": 8907977, "name": "Buster's Sea Cove", "latitude": "43.6483944444", "longitude": "-79.3715666667", "cuisines": "Seafood", "average_cost_for_two": 30, "price_range": 2, "aggregate_rating": "4.2", "rating_text": "Very Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 3, "modified": "2018-08-17", "collection_id": 48, "collection_name": "Super seafood", "res_id": 8904980, "name": "Oyster Boy", "latitude": "43.6452070000", "longitude": "-79.4143660000", "cuisines": "Seafood", "average_cost_for_two": 70, "price_range": 3, "aggregate_rating": "4.1", "rating_text": "Very Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 4, "modified": "2018-08-17", "collection_id": 48, "collection_name": "Super seafood", "res_id": 8905951, "name": "Fresh Off the Boat", "latitude": "43.6486600000", "longitude": "-79.3972300000", "cuisines": "Seafood", "average_cost_for_two": 30, "price_range": 2, "aggregate_rating": "3.5", "rating_text": "Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 5, "modified": "2018-08-17", "collection_id": 48, "collection_name": "Super seafood", "res_id": 8909138, "name": "Pure Spirits Oyster House & Grill", "latitude": "43.6503480000", "longitude": "-79.3587320000", "cuisines": "Seafood, Grill", "average_cost_for_two": 90, "price_range": 3, "aggregate_rating": "3.8", "rating_text": "Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 6, "modified": "2018-08-17", "collection_id": 48, "collection_name": "Super seafood", "res_id": 8902192, "name": "La Castile", "latitude": "43.6262970000", "longitude": "-79.5663600000", "cuisines": "Seafood, Grill", "average_cost_for_two": 160, "price_range": 4, "aggregate_rating": "4.0", "rating_text": "Very Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 7, "modified": "2018-08-17", "collection_id": 48, "collection_name": "Super seafood", "res_id": 8911272, "name": "Snug Harbour", "latitude": "43.5519720000", "longitude": "-79.5851620000", "cuisines": "Seafood", "average_cost_for_two": 70, "price_range": 3, "aggregate_rating": "3.5", "rating_text": "Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 8, "modified": "2018-08-17", "collection_id": 48, "collection_name": "Super seafood", "res_id": 8903007, "name": "Diana's Oyster Bar And Grill", "latitude": "43.7458460000", "longitude": "-79.2918930000", "cuisines": "Seafood", "average_cost_for_two": 60, "price_range": 3, "aggregate_rating": "3.7", "rating_text": "Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 9, "modified": "2018-08-17", "collection_id": 48, "collection_name": "Super seafood", "res_id": 8904683, "name": "The Fish Store", "latitude": "43.6550611111", "longitude": "-79.4162305556", "cuisines": "Seafood", "average_cost_for_two": 30, "price_range": 2, "aggregate_rating": "4.3", "rating_text": "Very Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 10, "modified": "2018-08-17", "collection_id": 48, "collection_name": "Super seafood", "res_id": 8909411, "name": "Roux", "latitude": "43.6654930000", "longitude": "-79.4623950000", "cuisines": "French, Fusion, Southern", "average_cost_for_two": 50, "price_range": 2, "aggregate_rating": "3.9", "rating_text": "Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 11, "modified": "2018-08-17", "collection_id": 48, "collection_name": "Super seafood", "res_id": 8910877, "name": "Joso's", "latitude": "43.6747480000", "longitude": "-79.3964950000", "cuisines": "Mediterranean, Seafood", "average_cost_for_two": 100, "price_range": 4, "aggregate_rating": "4.1", "rating_text": "Very Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 12, "modified": "2018-08-17", "collection_id": 48, "collection_name": "Super seafood", "res_id": 8907542, "name": "Market Street Catch", "latitude": "43.6485027778", "longitude": "-79.3719416667", "cuisines": "Seafood", "average_cost_for_two": 35, "price_range": 2, "aggregate_rating": "3.3", "rating_text": "Average", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 13, "modified": "2018-08-17", "collection_id": 48, "collection_name": "Super seafood", "res_id": 8910484, "name": "Phebe's Zee Grill", "latitude": "43.7048111111", "longitude": "-79.3881305556", "cuisines": "Seafood", "average_cost_for_two": 55, "price_range": 2, "aggregate_rating": "4.0", "rating_text": "Very Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 14, "modified": "2018-08-17", "collection_id": 48, "collection_name": "Super seafood", "res_id": 8910428, "name": "Smoked & Cracked", "latitude": "43.7018700000", "longitude": "-79.3877330000", "cuisines": "Seafood", "average_cost_for_two": 70, "price_range": 3, "aggregate_rating": "3.6", "rating_text": "Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 15, "modified": "2018-08-17", "collection_id": 48, "collection_name": "Super seafood", "res_id": 8905080, "name": "The Chase Fish & Oyster", "latitude": "43.6510630000", "longitude": "-79.3793500000", "cuisines": "Seafood, Canadian", "average_cost_for_two": 120, "price_range": 4, "aggregate_rating": "3.2", "rating_text": "Average", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 1, "modified": "2018-08-17", "collection_id": 35, "collection_name": "Ramen", "res_id": 8908342, "name": "Ramen Isshin", "latitude": "43.6566555556", "longitude": "-79.4069888889", "cuisines": "Ramen, Japanese", "average_cost_for_two": 45, "price_range": 2, "aggregate_rating": "4.5", "rating_text": "Excellent", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 2, "modified": "2018-08-17", "collection_id": 35, "collection_name": "Ramen", "res_id": 8906757, "name": "Sansotei Ramen", "latitude": "43.6550972222", "longitude": "-79.3864055556", "cuisines": "Ramen", "average_cost_for_two": 40, "price_range": 2, "aggregate_rating": "4.4", "rating_text": "Very Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 3, "modified": "2018-08-17", "collection_id": 35, "collection_name": "Ramen", "res_id": 8910249, "name": "Ryus Noodle Bar", "latitude": "43.6780170000", "longitude": "-79.3617830000", "cuisines": "Ramen", "average_cost_for_two": 40, "price_range": 2, "aggregate_rating": "3.9", "rating_text": "Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 4, "modified": "2018-08-17", "collection_id": 35, "collection_name": "Ramen", "res_id": 8902460, "name": "Ramen Raijin", "latitude": "43.6651760000", "longitude": "-79.3861050000", "cuisines": "Ramen, Japanese", "average_cost_for_two": 40, "price_range": 2, "aggregate_rating": "3.8", "rating_text": "Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 5, "modified": "2018-08-17", "collection_id": 35, "collection_name": "Ramen", "res_id": 8905348, "name": "Kenzo Ramen", "latitude": "43.6553472222", "longitude": "-79.3847722222", "cuisines": "Ramen, Japanese", "average_cost_for_two": 30, "price_range": 2, "aggregate_rating": "3.8", "rating_text": "Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 6, "modified": "2018-08-17", "collection_id": 35, "collection_name": "Ramen", "res_id": 8905366, "name": "Ryoji", "latitude": "43.6554150000", "longitude": "-79.4177750000", "cuisines": "Japanese, Asian", "average_cost_for_two": 40, "price_range": 2, "aggregate_rating": "3.8", "rating_text": "Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 7, "modified": "2018-08-17", "collection_id": 35, "collection_name": "Ramen", "res_id": 8905442, "name": "Touhenboku Ramen", "latitude": "43.6502810000", "longitude": "-79.3889980000", "cuisines": "Ramen, Japanese", "average_cost_for_two": 40, "price_range": 2, "aggregate_rating": "3.5", "rating_text": "Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 8, "modified": "2018-08-17", "collection_id": 35, "collection_name": "Ramen", "res_id": 8909869, "name": "Ajisen Ramen", "latitude": "43.6538111111", "longitude": "-79.3985833333", "cuisines": "Ramen, Japanese", "average_cost_for_two": 30, "price_range": 2, "aggregate_rating": "3.8", "rating_text": "Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 9, "modified": "2018-08-17", "collection_id": 35, "collection_name": "Ramen", "res_id": 8908609, "name": "Hakata Ramen Sho Ryu Ken", "latitude": "43.7734388889", "longitude": "-79.4139861111", "cuisines": "Ramen, Japanese", "average_cost_for_two": 30, "price_range": 2, "aggregate_rating": "3.6", "rating_text": "Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 10, "modified": "2018-08-17", "collection_id": 35, "collection_name": "Ramen", "res_id": 8907494, "name": "Sansotei Ramen", "latitude": "43.6669000000", "longitude": "-79.3852222222", "cuisines": "Ramen", "average_cost_for_two": 40, "price_range": 2, "aggregate_rating": "3.7", "rating_text": "Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 11, "modified": "2018-08-17", "collection_id": 35, "collection_name": "Ramen", "res_id": 8902775, "name": "Ajisen Ramen", "latitude": "43.8204611111", "longitude": "-79.3253333333", "cuisines": "Ramen, Japanese", "average_cost_for_two": 30, "price_range": 2, "aggregate_rating": "3.4", "rating_text": "Average", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 12, "modified": "2018-08-17", "collection_id": 35, "collection_name": "Ramen", "res_id": 8906742, "name": "Kenzo Ramen", "latitude": "43.6663040000", "longitude": "-79.4060250000", "cuisines": "Ramen, Japanese", "average_cost_for_two": 30, "price_range": 2, "aggregate_rating": "3.6", "rating_text": "Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 13, "modified": "2018-08-17", "collection_id": 35, "collection_name": "Ramen", "res_id": 8907789, "name": "Ajisen Ramen", "latitude": "43.7712694444", "longitude": "-79.4135500000", "cuisines": "Ramen, Japanese", "average_cost_for_two": 30, "price_range": 2, "aggregate_rating": "3.7", "rating_text": "Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 14, "modified": "2018-08-17", "collection_id": 35, "collection_name": "Ramen", "res_id": 8901795, "name": "Kenzo Ramen", "latitude": "43.7933841000", "longitude": "-79.4191204000", "cuisines": "Ramen, Japanese", "average_cost_for_two": 30, "price_range": 2, "aggregate_rating": "3.8", "rating_text": "Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 15, "modified": "2018-08-17", "collection_id": 35, "collection_name": "Ramen", "res_id": 8901768, "name": "Kenzo Ramen", "latitude": "43.5777855000", "longitude": "-79.6531604000", "cuisines": "Ramen, Japanese", "average_cost_for_two": 30, "price_range": 2, "aggregate_rating": "3.6", "rating_text": "Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 16, "modified": "2018-08-17", "collection_id": 35, "collection_name": "Ramen", "res_id": 8910890, "name": "Touhenboku Ramen", "latitude": "43.7113710000", "longitude": "-79.3991730000", "cuisines": "Ramen, Japanese", "average_cost_for_two": 40, "price_range": 2, "aggregate_rating": "3.3", "rating_text": "Average", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 17, "modified": "2018-08-17", "collection_id": 35, "collection_name": "Ramen", "res_id": 8908048, "name": "Kenzo Ramen", "latitude": "43.7629277778", "longitude": "-79.4112861111", "cuisines": "Ramen, Japanese", "average_cost_for_two": 30, "price_range": 2, "aggregate_rating": "3.4", "rating_text": "Average", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 18, "modified": "2018-08-17", "collection_id": 35, "collection_name": "Ramen", "res_id": 8910734, "name": "Niwatei", "latitude": "43.8156760000", "longitude": "-79.3445550000", "cuisines": "Ramen, Japanese", "average_cost_for_two": 30, "price_range": 2, "aggregate_rating": "3.7", "rating_text": "Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 19, "modified": "2018-08-17", "collection_id": 35, "collection_name": "Ramen", "res_id": 8904922, "name": "Kenzo Ramen", "latitude": "43.6470070000", "longitude": "-79.4046520000", "cuisines": "Ramen, Japanese", "average_cost_for_two": 30, "price_range": 2, "aggregate_rating": "3.1", "rating_text": "Average", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 20, "modified": "2018-08-17", "collection_id": 35, "collection_name": "Ramen", "res_id": 17895306, "name": "Sansotei Ramen", "latitude": "43.8579570000", "longitude": "-79.3244730000", "cuisines": "Ramen", "average_cost_for_two": 40, "price_range": 2, "aggregate_rating": "3.2", "rating_text": "Average", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 21, "modified": "2018-08-17", "collection_id": 35, "collection_name": "Ramen", "res_id": 8905417, "name": "Kenzo Ramen", "latitude": "43.6636130000", "longitude": "-79.3844230000", "cuisines": "Ramen, Japanese", "average_cost_for_two": 30, "price_range": 2, "aggregate_rating": "3.2", "rating_text": "Average", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 22, "modified": "2018-08-17", "collection_id": 35, "collection_name": "Ramen", "res_id": 18244367, "name": "Touhenboku Ramen", "latitude": "43.8764940000", "longitude": "-79.4105850000", "cuisines": "Ramen, Japanese", "average_cost_for_two": 40, "price_range": 2, "aggregate_rating": "2.6", "rating_text": "Average", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 1, "modified": "2018-08-17", "collection_id": 46, "collection_name": "Date night", "res_id": 8910373, "name": "Canoe", "latitude": "43.6476749000", "longitude": "-79.3809818000", "cuisines": "Canadian", "average_cost_for_two": 150, "price_range": 4, "aggregate_rating": "4.3", "rating_text": "Very Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 2, "modified": "2018-08-17", "collection_id": 46, "collection_name": "Date night", "res_id": 8903930, "name": "Terroni", "latitude": "43.6508419000", "longitude": "-79.3757777000", "cuisines": "Italian, Pizza", "average_cost_for_two": 65, "price_range": 3, "aggregate_rating": "4.2", "rating_text": "Very Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 3, "modified": "2018-08-17", "collection_id": 46, "collection_name": "Date night", "res_id": 8910202, "name": "Nota Bene", "latitude": "43.6507620000", "longitude": "-79.3881490000", "cuisines": "Canadian", "average_cost_for_two": 140, "price_range": 4, "aggregate_rating": "4.2", "rating_text": "Very Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 4, "modified": "2018-08-17", "collection_id": 46, "collection_name": "Date night", "res_id": 8908963, "name": "Playa Cabana", "latitude": "43.6758500000", "longitude": "-79.4012611111", "cuisines": "Mexican", "average_cost_for_two": 70, "price_range": 3, "aggregate_rating": "4.3", "rating_text": "Very Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 5, "modified": "2018-08-17", "collection_id": 46, "collection_name": "Date night", "res_id": 8910835, "name": "Farmhouse Tavern", "latitude": "43.6649060000", "longitude": "-79.4556300000", "cuisines": "Bar Food, Canadian", "average_cost_for_two": 65, "price_range": 3, "aggregate_rating": "4.1", "rating_text": "Very Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 6, "modified": "2018-08-17", "collection_id": 46, "collection_name": "Date night", "res_id": 8905220, "name": "Edulis", "latitude": "43.6420472222", "longitude": "-79.4065166667", "cuisines": "European", "average_cost_for_two": 155, "price_range": 4, "aggregate_rating": "4.0", "rating_text": "Very Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 7, "modified": "2018-08-17", "collection_id": 46, "collection_name": "Date night", "res_id": 8909881, "name": "Patria", "latitude": "43.6454500000", "longitude": "-79.3963240000", "cuisines": "Tapas, Spanish", "average_cost_for_two": 120, "price_range": 4, "aggregate_rating": "4.3", "rating_text": "Very Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 8, "modified": "2018-08-17", "collection_id": 46, "collection_name": "Date night", "res_id": 8910070, "name": "Queen Mother Cafe", "latitude": "43.6503930000", "longitude": "-79.3891240000", "cuisines": "Asian Fusion", "average_cost_for_two": 50, "price_range": 2, "aggregate_rating": "4.0", "rating_text": "Very Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 9, "modified": "2018-08-17", "collection_id": 46, "collection_name": "Date night", "res_id": 8909348, "name": "Enoteca Sociale", "latitude": "43.6494250000", "longitude": "-79.4256277778", "cuisines": "Italian, European", "average_cost_for_two": 80, "price_range": 3, "aggregate_rating": "4.1", "rating_text": "Very Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 10, "modified": "2018-08-17", "collection_id": 46, "collection_name": "Date night", "res_id": 8909602, "name": "416 Snack Bar", "latitude": "43.6470750000", "longitude": "-79.4042680000", "cuisines": "Bar Food, Asian Fusion, Canadian", "average_cost_for_two": 40, "price_range": 2, "aggregate_rating": "4.1", "rating_text": "Very Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 11, "modified": "2018-08-17", "collection_id": 46, "collection_name": "Date night", "res_id": 8909295, "name": "The Good Son Restaurant", "latitude": "43.6435444444", "longitude": "-79.4227750000", "cuisines": "Canadian, Pizza, European", "average_cost_for_two": 85, "price_range": 3, "aggregate_rating": "4.0", "rating_text": "Very Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 12, "modified": "2018-08-17", "collection_id": 46, "collection_name": "Date night", "res_id": 8904803, "name": "Campagnolo", "latitude": "43.6515694444", "longitude": "-79.4095388889", "cuisines": "Italian, European", "average_cost_for_two": 120, "price_range": 4, "aggregate_rating": "4.2", "rating_text": "Very Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 13, "modified": "2018-08-17", "collection_id": 46, "collection_name": "Date night", "res_id": 8904495, "name": "Brassaii", "latitude": "43.6449880000", "longitude": "-79.3962480000", "cuisines": "Mediterranean", "average_cost_for_two": 130, "price_range": 4, "aggregate_rating": "3.6", "rating_text": "Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 14, "modified": "2018-08-17", "collection_id": 46, "collection_name": "Date night", "res_id": 8911003, "name": "Buca Osteria & Bar", "latitude": "43.6721730000", "longitude": "-79.3903630000", "cuisines": "Italian, Seafood", "average_cost_for_two": 90, "price_range": 3, "aggregate_rating": "4.0", "rating_text": "Very Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 15, "modified": "2018-08-17", "collection_id": 46, "collection_name": "Date night", "res_id": 8904650, "name": "Trattoria Taverniti", "latitude": "43.6551480000", "longitude": "-79.4135100000", "cuisines": "Italian, Pizza", "average_cost_for_two": 65, "price_range": 3, "aggregate_rating": "3.7", "rating_text": "Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 16, "modified": "2018-08-17", "collection_id": 46, "collection_name": "Date night", "res_id": 8909127, "name": "Chantecler", "latitude": "43.6415944444", "longitude": "-79.4311611111", "cuisines": "Asian Fusion", "average_cost_for_two": 40, "price_range": 2, "aggregate_rating": "4.5", "rating_text": "Excellent", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 17, "modified": "2018-08-17", "collection_id": 46, "collection_name": "Date night", "res_id": 8905805, "name": "Snakes & Lattes", "latitude": "43.6647870000", "longitude": "-79.4131700000", "cuisines": "Cafe", "average_cost_for_two": 30, "price_range": 2, "aggregate_rating": "4.1", "rating_text": "Very Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 18, "modified": "2018-08-17", "collection_id": 46, "collection_name": "Date night", "res_id": 8909453, "name": "SPiN Toronto", "latitude": "43.6450370000", "longitude": "-79.3964700000", "cuisines": "American", "average_cost_for_two": 80, "price_range": 3, "aggregate_rating": "3.6", "rating_text": "Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 19, "modified": "2018-08-17", "collection_id": 46, "collection_name": "Date night", "res_id": 8908992, "name": "Mamakas Taverna", "latitude": "43.6460444444", "longitude": "-79.4195861111", "cuisines": "Greek", "average_cost_for_two": 70, "price_range": 3, "aggregate_rating": "3.7", "rating_text": "Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 20, "modified": "2018-08-17", "collection_id": 46, "collection_name": "Date night", "res_id": 8907948, "name": "The Wren", "latitude": "43.6824138889", "longitude": "-79.3280944444", "cuisines": "Bar Food, Southern", "average_cost_for_two": 50, "price_range": 2, "aggregate_rating": "3.9", "rating_text": "Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 21, "modified": "2018-08-17", "collection_id": 46, "collection_name": "Date night", "res_id": 8909663, "name": "The Ace", "latitude": "43.6461600000", "longitude": "-79.4489520000", "cuisines": "Canadian, Modern European", "average_cost_for_two": 90, "price_range": 3, "aggregate_rating": "3.7", "rating_text": "Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 22, "modified": "2018-08-17", "collection_id": 46, "collection_name": "Date night", "res_id": 8905785, "name": "F'Amelia", "latitude": "43.6673460000", "longitude": "-79.3687820000", "cuisines": "Italian", "average_cost_for_two": 50, "price_range": 2, "aggregate_rating": "3.7", "rating_text": "Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 23, "modified": "2018-08-17", "collection_id": 46, "collection_name": "Date night", "res_id": 8910348, "name": "Anatolia", "latitude": "43.6444360000", "longitude": "-79.5327070000", "cuisines": "Turkish", "average_cost_for_two": 60, "price_range": 3, "aggregate_rating": "3.9", "rating_text": "Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 24, "modified": "2018-08-17", "collection_id": 46, "collection_name": "Date night", "res_id": 8909068, "name": "Midfield", "latitude": "43.6495944444", "longitude": "-79.4299777778", "cuisines": "Bar Food, Canadian", "average_cost_for_two": 60, "price_range": 3, "aggregate_rating": "3.5", "rating_text": "Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 1, "modified": "2018-08-17", "collection_id": 24, "collection_name": "Unique dining", "res_id": 8910403, "name": "KINKA IZAKAYA", "latitude": "43.6605260000", "longitude": "-79.3789290000", "cuisines": "Japanese, Asian", "average_cost_for_two": 55, "price_range": 2, "aggregate_rating": "4.8", "rating_text": "Excellent", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 2, "modified": "2018-08-17", "collection_id": 24, "collection_name": "Unique dining", "res_id": 8906728, "name": "360 Restaurant", "latitude": "43.6425720000", "longitude": "-79.3878480000", "cuisines": "Canadian, Grill", "average_cost_for_two": 180, "price_range": 4, "aggregate_rating": "3.8", "rating_text": "Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 3, "modified": "2018-08-17", "collection_id": 24, "collection_name": "Unique dining", "res_id": 8904394, "name": "The Black Hoof", "latitude": "43.6507305556", "longitude": "-79.4131000000", "cuisines": "Tapas, Bar Food", "average_cost_for_two": 80, "price_range": 3, "aggregate_rating": "4.6", "rating_text": "Excellent", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 4, "modified": "2018-08-17", "collection_id": 24, "collection_name": "Unique dining", "res_id": 8906668, "name": "Real Sports Bar & Grill", "latitude": "43.6421750000", "longitude": "-79.3809300000", "cuisines": "Bar Food, Grill", "average_cost_for_two": 80, "price_range": 3, "aggregate_rating": "3.9", "rating_text": "Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 5, "modified": "2018-08-17", "collection_id": 24, "collection_name": "Unique dining", "res_id": 8904200, "name": "The Sultan's Tent & Cafe Moroc", "latitude": "43.6480330000", "longitude": "-79.3743390000", "cuisines": "French, Moroccan", "average_cost_for_two": 70, "price_range": 3, "aggregate_rating": "3.8", "rating_text": "Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 6, "modified": "2018-08-17", "collection_id": 24, "collection_name": "Unique dining", "res_id": 8905220, "name": "Edulis", "latitude": "43.6420472222", "longitude": "-79.4065166667", "cuisines": "European", "average_cost_for_two": 155, "price_range": 4, "aggregate_rating": "4.0", "rating_text": "Very Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 7, "modified": "2018-08-17", "collection_id": 24, "collection_name": "Unique dining", "res_id": 8907782, "name": "Southern Accent", "latitude": "43.6542075000", "longitude": "-79.4229654000", "cuisines": "Cajun, Southern", "average_cost_for_two": 30, "price_range": 2, "aggregate_rating": "3.9", "rating_text": "Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 8, "modified": "2018-08-17", "collection_id": 24, "collection_name": "Unique dining", "res_id": 8910537, "name": "O.Noir", "latitude": "43.6690980000", "longitude": "-79.3827220000", "cuisines": "American, French, Italian", "average_cost_for_two": 70, "price_range": 3, "aggregate_rating": "3.8", "rating_text": "Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 9, "modified": "2018-08-17", "collection_id": 24, "collection_name": "Unique dining", "res_id": 8904274, "name": "Copacabana Grilled Brazilian", "latitude": "43.6484420000", "longitude": "-79.3882220000", "cuisines": "Steak, Grill, Brazilian", "average_cost_for_two": 100, "price_range": 4, "aggregate_rating": "3.8", "rating_text": "Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 10, "modified": "2018-08-17", "collection_id": 24, "collection_name": "Unique dining", "res_id": 8907822, "name": "Rodeo Brazilian Steakhouse", "latitude": "43.6760830000", "longitude": "-79.3584540000", "cuisines": "Brazilian, Steak", "average_cost_for_two": 80, "price_range": 3, "aggregate_rating": "4.0", "rating_text": "Very Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 11, "modified": "2018-08-17", "collection_id": 24, "collection_name": "Unique dining", "res_id": 8909453, "name": "SPiN Toronto", "latitude": "43.6450370000", "longitude": "-79.3964700000", "cuisines": "American", "average_cost_for_two": 80, "price_range": 3, "aggregate_rating": "3.6", "rating_text": "Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 12, "modified": "2018-08-17", "collection_id": 24, "collection_name": "Unique dining", "res_id": 8908722, "name": "3030 Dundas West", "latitude": "43.6655500000", "longitude": "-79.4704900000", "cuisines": "Bar Food", "average_cost_for_two": 80, "price_range": 3, "aggregate_rating": "3.5", "rating_text": "Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 13, "modified": "2018-08-17", "collection_id": 24, "collection_name": "Unique dining", "res_id": 8910970, "name": "Mysteriously Yours", "latitude": "43.7011110000", "longitude": "-79.3973960000", "cuisines": "American", "average_cost_for_two": 130, "price_range": 4, "aggregate_rating": "3.4", "rating_text": "Average", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 14, "modified": "2018-08-17", "collection_id": 24, "collection_name": "Unique dining", "res_id": 8909227, "name": "Lula Lounge", "latitude": "43.6498527778", "longitude": "-79.4345250000", "cuisines": "Cuban, Jamaican", "average_cost_for_two": 75, "price_range": 3, "aggregate_rating": "3.3", "rating_text": "Average", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 15, "modified": "2018-08-17", "collection_id": 24, "collection_name": "Unique dining", "res_id": 8910704, "name": "Arriba - Renaissance Toronto Downtown Hotel", "latitude": "43.6422850000", "longitude": "-79.3895970000", "cuisines": "Modern European", "average_cost_for_two": 90, "price_range": 3, "aggregate_rating": "3.6", "rating_text": "Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 16, "modified": "2018-08-17", "collection_id": 24, "collection_name": "Unique dining", "res_id": 8910872, "name": "Kaiseki Yu-Zen Hashimoto", "latitude": "43.7260090000", "longitude": "-79.3347760000", "cuisines": "Sushi, Japanese, Asian", "average_cost_for_two": 600, "price_range": 4, "aggregate_rating": "3.3", "rating_text": "Average", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 17, "modified": "2018-08-17", "collection_id": 24, "collection_name": "Unique dining", "res_id": 17809065, "name": "Track & Field Bar", "latitude": "43.6542960000", "longitude": "-79.4237620000", "cuisines": "Bar Food", "average_cost_for_two": 40, "price_range": 2, "aggregate_rating": "0", "rating_text": "Not rated", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 1, "modified": "2018-08-17", "collection_id": 41, "collection_name": "Craft beer", "res_id": 8909866, "name": "Amsterdam BrewHouse", "latitude": "43.6382180000", "longitude": "-79.3848190000", "cuisines": "Bar Food", "average_cost_for_two": 70, "price_range": 3, "aggregate_rating": "3.7", "rating_text": "Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 2, "modified": "2018-08-17", "collection_id": 41, "collection_name": "Craft beer", "res_id": 8906906, "name": "WVRST", "latitude": "43.6442027778", "longitude": "-79.4008333333", "cuisines": "German", "average_cost_for_two": 40, "price_range": 2, "aggregate_rating": "4.3", "rating_text": "Very Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 3, "modified": "2018-08-17", "collection_id": 41, "collection_name": "Craft beer", "res_id": 8906821, "name": "Marben", "latitude": "43.6435890000", "longitude": "-79.3985420000", "cuisines": "Burger, Spanish, Canadian", "average_cost_for_two": 70, "price_range": 3, "aggregate_rating": "4.1", "rating_text": "Very Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 4, "modified": "2018-08-17", "collection_id": 41, "collection_name": "Craft beer", "res_id": 8908730, "name": "The Beer Hall", "latitude": "43.6506020000", "longitude": "-79.3577030000", "cuisines": "American, Bar Food", "average_cost_for_two": 70, "price_range": 3, "aggregate_rating": "4.0", "rating_text": "Very Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 5, "modified": "2018-08-17", "collection_id": 41, "collection_name": "Craft beer", "res_id": 8907710, "name": "C'est What?", "latitude": "43.6489555556", "longitude": "-79.3736638889", "cuisines": "Bar Food", "average_cost_for_two": 60, "price_range": 3, "aggregate_rating": "3.9", "rating_text": "Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 6, "modified": "2018-08-17", "collection_id": 41, "collection_name": "Craft beer", "res_id": 8904457, "name": "Bar Hop", "latitude": "43.6455750000", "longitude": "-79.3936640000", "cuisines": "Bar Food, Canadian", "average_cost_for_two": 70, "price_range": 3, "aggregate_rating": "3.9", "rating_text": "Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 7, "modified": "2018-08-17", "collection_id": 41, "collection_name": "Craft beer", "res_id": 8905265, "name": "Town Crier Pub", "latitude": "43.6481020000", "longitude": "-79.3901500000", "cuisines": "Bar Food, German, Belgian", "average_cost_for_two": 65, "price_range": 3, "aggregate_rating": "4.0", "rating_text": "Very Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 8, "modified": "2018-08-17", "collection_id": 41, "collection_name": "Craft beer", "res_id": 8908439, "name": "Bellwoods Brewery", "latitude": "43.6470833333", "longitude": "-79.4199666667", "cuisines": "Bar Food", "average_cost_for_two": 60, "price_range": 3, "aggregate_rating": "3.8", "rating_text": "Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 9, "modified": "2018-08-17", "collection_id": 41, "collection_name": "Craft beer", "res_id": 8904195, "name": "Duke's Refresher + Bar", "latitude": "43.6593805556", "longitude": "-79.3829027778", "cuisines": "Bar Food", "average_cost_for_two": 60, "price_range": 3, "aggregate_rating": "3.6", "rating_text": "Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 10, "modified": "2018-08-17", "collection_id": 41, "collection_name": "Craft beer", "res_id": 8909766, "name": "Indie Ale House", "latitude": "43.6654470000", "longitude": "-79.4655300000", "cuisines": "Bar Food, American, Pizza", "average_cost_for_two": 60, "price_range": 3, "aggregate_rating": "3.7", "rating_text": "Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 11, "modified": "2018-08-17", "collection_id": 41, "collection_name": "Craft beer", "res_id": 8908613, "name": "The Dock Ellis", "latitude": "43.6493444444", "longitude": "-79.4254694444", "cuisines": "Bar Food, Canadian", "average_cost_for_two": 60, "price_range": 3, "aggregate_rating": "3.4", "rating_text": "Average", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 12, "modified": "2018-08-17", "collection_id": 41, "collection_name": "Craft beer", "res_id": 8908811, "name": "Bryden's", "latitude": "43.6493000000", "longitude": "-79.4847180000", "cuisines": "Bar Food", "average_cost_for_two": 60, "price_range": 3, "aggregate_rating": "4.0", "rating_text": "Very Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 13, "modified": "2018-08-17", "collection_id": 41, "collection_name": "Craft beer", "res_id": 8906793, "name": "The Only Cafe", "latitude": "43.6804972222", "longitude": "-79.3378611111", "cuisines": "Bar Food, Cafe", "average_cost_for_two": 30, "price_range": 2, "aggregate_rating": "3.7", "rating_text": "Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 14, "modified": "2018-08-17", "collection_id": 41, "collection_name": "Craft beer", "res_id": 8911206, "name": "Tallboys", "latitude": "43.6624750000", "longitude": "-79.4238070000", "cuisines": "Bar Food, Canadian, Burger", "average_cost_for_two": 40, "price_range": 2, "aggregate_rating": "3.9", "rating_text": "Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 15, "modified": "2018-08-17", "collection_id": 41, "collection_name": "Craft beer", "res_id": 8910975, "name": "Monarch Tavern", "latitude": "43.6541098000", "longitude": "-79.4136084000", "cuisines": "BBQ, Bar Food", "average_cost_for_two": 30, "price_range": 2, "aggregate_rating": "3.2", "rating_text": "Average", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 16, "modified": "2018-08-17", "collection_id": 41, "collection_name": "Craft beer", "res_id": 8907397, "name": "The Cloak And Dagger", "latitude": "43.6570080000", "longitude": "-79.4056720000", "cuisines": "Bar Food", "average_cost_for_two": 40, "price_range": 2, "aggregate_rating": "3.4", "rating_text": "Average", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 1, "modified": "2018-08-17", "collection_id": 203, "collection_name": "Great chinese", "res_id": 8900782, "name": "Rol San", "latitude": "43.6540861111", "longitude": "-79.3986055556", "cuisines": "Dim Sum, Cantonese", "average_cost_for_two": 45, "price_range": 2, "aggregate_rating": "4.0", "rating_text": "Very Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 2, "modified": "2018-08-17", "collection_id": 203, "collection_name": "Great chinese", "res_id": 8900379, "name": "Mother's Dumplings", "latitude": "43.6569860000", "longitude": "-79.3996280000", "cuisines": "Northern Chinese", "average_cost_for_two": 30, "price_range": 2, "aggregate_rating": "3.9", "rating_text": "Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 3, "modified": "2018-08-17", "collection_id": 203, "collection_name": "Great chinese", "res_id": 8902709, "name": "Ding Tai Fung", "latitude": "43.8486790000", "longitude": "-79.3484730000", "cuisines": "Shanghai, Chinese, Asian", "average_cost_for_two": 35, "price_range": 2, "aggregate_rating": "4.1", "rating_text": "Very Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 4, "modified": "2018-08-17", "collection_id": 203, "collection_name": "Great chinese", "res_id": 8908442, "name": "King's Noodle", "latitude": "43.6531111111", "longitude": "-79.3983611111", "cuisines": "Cantonese", "average_cost_for_two": 35, "price_range": 2, "aggregate_rating": "4.2", "rating_text": "Very Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 5, "modified": "2018-08-17", "collection_id": 203, "collection_name": "Great chinese", "res_id": 8900280, "name": "Swatow Restaurant", "latitude": "43.6537666667", "longitude": "-79.3981944444", "cuisines": "Cantonese", "average_cost_for_two": 25, "price_range": 1, "aggregate_rating": "4.0", "rating_text": "Very Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 6, "modified": "2018-08-17", "collection_id": 203, "collection_name": "Great chinese", "res_id": 8904485, "name": "Dailo", "latitude": "43.6559666667", "longitude": "-79.4100805556", "cuisines": "Chinese, Asian Fusion", "average_cost_for_two": 85, "price_range": 3, "aggregate_rating": "4.1", "rating_text": "Very Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 7, "modified": "2018-08-17", "collection_id": 203, "collection_name": "Great chinese", "res_id": 8911942, "name": "Dragon Boat Fusion Cuisine", "latitude": "43.8487900000", "longitude": "-79.3765500000", "cuisines": "Dim Sum, Cantonese", "average_cost_for_two": 40, "price_range": 2, "aggregate_rating": "4.0", "rating_text": "Very Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 8, "modified": "2018-08-17", "collection_id": 203, "collection_name": "Great chinese", "res_id": 8904474, "name": "Luckee by Susur Lee", "latitude": "43.6447080000", "longitude": "-79.3922940000", "cuisines": "Dim Sum, Chinese, Asian", "average_cost_for_two": 100, "price_range": 4, "aggregate_rating": "4.0", "rating_text": "Very Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 9, "modified": "2018-08-17", "collection_id": 203, "collection_name": "Great chinese", "res_id": 8905414, "name": "Northern Dumpling Kitchen", "latitude": "43.8452220000", "longitude": "-79.3837050000", "cuisines": "Northern Chinese, Chinese, Asian", "average_cost_for_two": 20, "price_range": 1, "aggregate_rating": "3.5", "rating_text": "Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 10, "modified": "2018-08-17", "collection_id": 203, "collection_name": "Great chinese", "res_id": 8908557, "name": "Lai Wah Heen - DoubleTree by Hilton Hotel Toronto Downtown", "latitude": "43.6545870000", "longitude": "-79.3858700000", "cuisines": "Dim Sum, Cantonese", "average_cost_for_two": 100, "price_range": 4, "aggregate_rating": "3.8", "rating_text": "Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 11, "modified": "2018-08-17", "collection_id": 203, "collection_name": "Great chinese", "res_id": 8910333, "name": "Maple Yip", "latitude": "43.7855820000", "longitude": "-79.2774970000", "cuisines": "Cantonese", "average_cost_for_two": 30, "price_range": 2, "aggregate_rating": "3.7", "rating_text": "Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 12, "modified": "2018-08-17", "collection_id": 203, "collection_name": "Great chinese", "res_id": 8908267, "name": "King's Caf\u00e9", "latitude": "43.6542277778", "longitude": "-79.4020388889", "cuisines": "Chinese, Vegetarian", "average_cost_for_two": 35, "price_range": 2, "aggregate_rating": "4.2", "rating_text": "Very Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 13, "modified": "2018-08-17", "collection_id": 203, "collection_name": "Great chinese", "res_id": 8900344, "name": "New Sky Restaurant", "latitude": "43.6553694444", "longitude": "-79.3987666667", "cuisines": "Cantonese, Chinese", "average_cost_for_two": 35, "price_range": 2, "aggregate_rating": "4.0", "rating_text": "Very Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 14, "modified": "2018-08-17", "collection_id": 203, "collection_name": "Great chinese", "res_id": 8902088, "name": "Congee Wong", "latitude": "43.7906260000", "longitude": "-79.3656970000", "cuisines": "Cantonese, Chinese, Asian", "average_cost_for_two": 35, "price_range": 2, "aggregate_rating": "3.9", "rating_text": "Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 15, "modified": "2018-08-17", "collection_id": 203, "collection_name": "Great chinese", "res_id": 8910361, "name": "Chung King Garden", "latitude": "43.8278277778", "longitude": "-79.3054888889", "cuisines": "Northern Chinese, Chinese, Asian", "average_cost_for_two": 45, "price_range": 2, "aggregate_rating": "3.6", "rating_text": "Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 16, "modified": "2018-08-17", "collection_id": 203, "collection_name": "Great chinese", "res_id": 8902763, "name": "Mei Nung Beef Noodle House", "latitude": "43.8483730000", "longitude": "-79.3491360000", "cuisines": "Taiwanese, Chinese, Asian", "average_cost_for_two": 25, "price_range": 1, "aggregate_rating": "3.7", "rating_text": "Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 17, "modified": "2018-08-17", "collection_id": 203, "collection_name": "Great chinese", "res_id": 8905679, "name": "Jim Chai Kee", "latitude": "43.8443450000", "longitude": "-79.3877030000", "cuisines": "Cantonese, Chinese, Asian", "average_cost_for_two": 20, "price_range": 1, "aggregate_rating": "3.7", "rating_text": "Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 18, "modified": "2018-08-17", "collection_id": 203, "collection_name": "Great chinese", "res_id": 8903155, "name": "Yang's Fine Chinese Cuisine", "latitude": "43.8685333333", "longitude": "-79.4128722222", "cuisines": "Dim Sum, Cantonese, Chinese, Asian", "average_cost_for_two": 65, "price_range": 3, "aggregate_rating": "3.8", "rating_text": "Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 19, "modified": "2018-08-17", "collection_id": 203, "collection_name": "Great chinese", "res_id": 8908564, "name": "Taste Of China", "latitude": "43.6539694444", "longitude": "-79.3986888889", "cuisines": "Cantonese", "average_cost_for_two": 45, "price_range": 2, "aggregate_rating": "3.6", "rating_text": "Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 20, "modified": "2018-08-17", "collection_id": 203, "collection_name": "Great chinese", "res_id": 8908661, "name": "Wok & Roast Chinese BBQ", "latitude": "43.6649666667", "longitude": "-79.3527055556", "cuisines": "Chinese, Seafood", "average_cost_for_two": 35, "price_range": 2, "aggregate_rating": "4.0", "rating_text": "Very Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 21, "modified": "2018-08-17", "collection_id": 203, "collection_name": "Great chinese", "res_id": 8904281, "name": "Chiuchow Man", "latitude": "43.5670890000", "longitude": "-79.6601560000", "cuisines": "Chinese, Asian", "average_cost_for_two": 30, "price_range": 2, "aggregate_rating": "3.8", "rating_text": "Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 22, "modified": "2018-08-17", "collection_id": 203, "collection_name": "Great chinese", "res_id": 8900776, "name": "Sam Woo BBQ", "latitude": "43.8156777778", "longitude": "-79.3227083333", "cuisines": "Cantonese", "average_cost_for_two": 35, "price_range": 2, "aggregate_rating": "3.7", "rating_text": "Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 23, "modified": "2018-08-17", "collection_id": 203, "collection_name": "Great chinese", "res_id": 8900465, "name": "Sun's Kitchen", "latitude": "43.8253060000", "longitude": "-79.3062590000", "cuisines": "Northern Chinese, Chinese, Asian", "average_cost_for_two": 20, "price_range": 1, "aggregate_rating": "3.5", "rating_text": "Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 24, "modified": "2018-08-17", "collection_id": 203, "collection_name": "Great chinese", "res_id": 8911037, "name": "China Garden Restaurant", "latitude": "43.7051810000", "longitude": "-79.6422430000", "cuisines": "Chinese, Hakka Chinese", "average_cost_for_two": 30, "price_range": 2, "aggregate_rating": "3.8", "rating_text": "Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 1, "modified": "2018-08-17", "collection_id": 175, "collection_name": "Barbecue & grill", "res_id": 8908995, "name": "The Stockyards", "latitude": "43.6815720000", "longitude": "-79.4263230000", "cuisines": "BBQ, Burger", "average_cost_for_two": 25, "price_range": 1, "aggregate_rating": "4.8", "rating_text": "Excellent", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 2, "modified": "2018-08-17", "collection_id": 175, "collection_name": "Barbecue & grill", "res_id": 8909239, "name": "Barque Smokehouse", "latitude": "43.6483540000", "longitude": "-79.4496310000", "cuisines": "BBQ, Grill", "average_cost_for_two": 70, "price_range": 3, "aggregate_rating": "4.5", "rating_text": "Excellent", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 3, "modified": "2018-08-17", "collection_id": 175, "collection_name": "Barbecue & grill", "res_id": 8904847, "name": "Smoque N' Bones", "latitude": "43.6456780000", "longitude": "-79.4107600000", "cuisines": "BBQ, Bar Food", "average_cost_for_two": 50, "price_range": 2, "aggregate_rating": "4.0", "rating_text": "Very Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 4, "modified": "2018-08-17", "collection_id": 175, "collection_name": "Barbecue & grill", "res_id": 8910673, "name": "Electric Mud BBQ", "latitude": "43.6420000000", "longitude": "-79.4323430000", "cuisines": "BBQ, Grill", "average_cost_for_two": 45, "price_range": 2, "aggregate_rating": "3.9", "rating_text": "Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 5, "modified": "2018-08-17", "collection_id": 175, "collection_name": "Barbecue & grill", "res_id": 8910322, "name": "Black Camel", "latitude": "43.6770610000", "longitude": "-79.3893910000", "cuisines": "Cafe, Sandwich", "average_cost_for_two": 30, "price_range": 2, "aggregate_rating": "4.6", "rating_text": "Excellent", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 6, "modified": "2018-08-17", "collection_id": 175, "collection_name": "Barbecue & grill", "res_id": 8906787, "name": "Hogtown Smoke", "latitude": "43.6694750000", "longitude": "-79.3020490000", "cuisines": "BBQ", "average_cost_for_two": 50, "price_range": 2, "aggregate_rating": "3.3", "rating_text": "Average", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 7, "modified": "2018-08-17", "collection_id": 175, "collection_name": "Barbecue & grill", "res_id": 8905328, "name": "Memphis BBQ & Wicked Wings", "latitude": "43.5027805556", "longitude": "-79.8784416667", "cuisines": "BBQ, American", "average_cost_for_two": 35, "price_range": 2, "aggregate_rating": "4.1", "rating_text": "Very Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 8, "modified": "2018-08-17", "collection_id": 175, "collection_name": "Barbecue & grill", "res_id": 8911132, "name": "Leslieville Pumps", "latitude": "43.6605540000", "longitude": "-79.3404670000", "cuisines": "Canadian", "average_cost_for_two": 20, "price_range": 1, "aggregate_rating": "3.9", "rating_text": "Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 9, "modified": "2018-08-17", "collection_id": 175, "collection_name": "Barbecue & grill", "res_id": 8907306, "name": "Triple A Bar", "latitude": "43.6517050000", "longitude": "-79.3728360000", "cuisines": "BBQ, American, Bar Food", "average_cost_for_two": 50, "price_range": 2, "aggregate_rating": "3.8", "rating_text": "Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 10, "modified": "2018-08-17", "collection_id": 175, "collection_name": "Barbecue & grill", "res_id": 8906708, "name": "Greenwood Smokehouse BBQ", "latitude": "43.6789440000", "longitude": "-79.3442490000", "cuisines": "BBQ, Diner", "average_cost_for_two": 50, "price_range": 2, "aggregate_rating": "3.5", "rating_text": "Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 11, "modified": "2018-08-17", "collection_id": 175, "collection_name": "Barbecue & grill", "res_id": 8907436, "name": "AFT Kitchen & Bar", "latitude": "43.6587111111", "longitude": "-79.3507222222", "cuisines": "Bar Food, BBQ", "average_cost_for_two": 80, "price_range": 3, "aggregate_rating": "4.1", "rating_text": "Very Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 12, "modified": "2018-08-17", "collection_id": 175, "collection_name": "Barbecue & grill", "res_id": 8910432, "name": "Lou Dawg's", "latitude": "43.6600715000", "longitude": "-79.3780271000", "cuisines": "BBQ, Southern, American, Bar Food", "average_cost_for_two": 40, "price_range": 2, "aggregate_rating": "3.3", "rating_text": "Average", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 1, "modified": "2018-08-17", "collection_id": 207, "collection_name": "Restaurants serving pho", "res_id": 8906808, "name": "Pho Rua Vang Golden Turtle", "latitude": "43.6468900000", "longitude": "-79.4194300000", "cuisines": "Vietnamese, Asian", "average_cost_for_two": 30, "price_range": 2, "aggregate_rating": "4.2", "rating_text": "Very Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 2, "modified": "2018-08-17", "collection_id": 207, "collection_name": "Restaurants serving pho", "res_id": 8906210, "name": "Pho Tien Thanh", "latitude": "43.6455050000", "longitude": "-79.4191630000", "cuisines": "Vietnamese, Asian", "average_cost_for_two": 30, "price_range": 2, "aggregate_rating": "4.0", "rating_text": "Very Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 3, "modified": "2018-08-17", "collection_id": 207, "collection_name": "Restaurants serving pho", "res_id": 8910250, "name": "Mekong River", "latitude": "43.6323510000", "longitude": "-79.5443950000", "cuisines": "Vietnamese, Thai, Chinese", "average_cost_for_two": 35, "price_range": 2, "aggregate_rating": "4.4", "rating_text": "Very Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 4, "modified": "2018-08-17", "collection_id": 207, "collection_name": "Restaurants serving pho", "res_id": 8910971, "name": "Pho Huong", "latitude": "43.6652920000", "longitude": "-79.4686540000", "cuisines": "Vietnamese, Asian", "average_cost_for_two": 30, "price_range": 2, "aggregate_rating": "4.3", "rating_text": "Very Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 5, "modified": "2018-08-17", "collection_id": 207, "collection_name": "Restaurants serving pho", "res_id": 8900929, "name": "Big Bowl", "latitude": "43.5307320000", "longitude": "-79.6724370000", "cuisines": "Vietnamese, Asian", "average_cost_for_two": 40, "price_range": 2, "aggregate_rating": "4.4", "rating_text": "Very Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 6, "modified": "2018-08-17", "collection_id": 207, "collection_name": "Restaurants serving pho", "res_id": 8909074, "name": "Pho Pasteur", "latitude": "43.6526666667", "longitude": "-79.3990333333", "cuisines": "Vietnamese", "average_cost_for_two": 30, "price_range": 2, "aggregate_rating": "3.7", "rating_text": "Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 7, "modified": "2018-08-17", "collection_id": 207, "collection_name": "Restaurants serving pho", "res_id": 8906733, "name": "Mimi Restaurant", "latitude": "43.6662000000", "longitude": "-79.3493638889", "cuisines": "Vietnamese", "average_cost_for_two": 35, "price_range": 2, "aggregate_rating": "4.6", "rating_text": "Excellent", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 8, "modified": "2018-08-17", "collection_id": 207, "collection_name": "Restaurants serving pho", "res_id": 8904518, "name": "Lucky Bamboo", "latitude": "43.8283166667", "longitude": "-79.5372305556", "cuisines": "Vietnamese, Asian", "average_cost_for_two": 35, "price_range": 2, "aggregate_rating": "4.1", "rating_text": "Very Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 9, "modified": "2018-08-17", "collection_id": 207, "collection_name": "Restaurants serving pho", "res_id": 8900826, "name": "Pho Mi 99", "latitude": "43.6089840000", "longitude": "-79.6978160000", "cuisines": "Vietnamese, Thai, Asian", "average_cost_for_two": 40, "price_range": 2, "aggregate_rating": "4.0", "rating_text": "Very Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 10, "modified": "2018-08-17", "collection_id": 207, "collection_name": "Restaurants serving pho", "res_id": 8909890, "name": "Ginger", "latitude": "43.6655730000", "longitude": "-79.3808760000", "cuisines": "Vietnamese", "average_cost_for_two": 30, "price_range": 2, "aggregate_rating": "3.8", "rating_text": "Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 11, "modified": "2018-08-17", "collection_id": 207, "collection_name": "Restaurants serving pho", "res_id": 8904601, "name": "Saigon House", "latitude": "43.7079480000", "longitude": "-79.7328760000", "cuisines": "Vietnamese", "average_cost_for_two": 35, "price_range": 2, "aggregate_rating": "4.0", "rating_text": "Very Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 12, "modified": "2018-08-17", "collection_id": 207, "collection_name": "Restaurants serving pho", "res_id": 8904184, "name": "Pho Ao Sen", "latitude": "43.5825960000", "longitude": "-79.7794420000", "cuisines": "Vietnamese, Asian", "average_cost_for_two": 0, "price_range": 1, "aggregate_rating": "4.1", "rating_text": "Very Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 13, "modified": "2018-08-17", "collection_id": 207, "collection_name": "Restaurants serving pho", "res_id": 8906618, "name": "Pho Peter", "latitude": "43.6973230000", "longitude": "-79.7521590000", "cuisines": "Vietnamese, Asian", "average_cost_for_two": 25, "price_range": 1, "aggregate_rating": "4.0", "rating_text": "Very Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 14, "modified": "2018-08-17", "collection_id": 207, "collection_name": "Restaurants serving pho", "res_id": 17739740, "name": "Pho Viet Xpress", "latitude": "43.7939630000", "longitude": "-79.4453830000", "cuisines": "Vietnamese", "average_cost_for_two": 30, "price_range": 2, "aggregate_rating": "3.7", "rating_text": "Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 15, "modified": "2018-08-17", "collection_id": 207, "collection_name": "Restaurants serving pho", "res_id": 8900301, "name": "Anh Dao", "latitude": "43.6563000000", "longitude": "-79.3991780000", "cuisines": "Vietnamese", "average_cost_for_two": 0, "price_range": 1, "aggregate_rating": "3.6", "rating_text": "Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 16, "modified": "2018-08-17", "collection_id": 207, "collection_name": "Restaurants serving pho", "res_id": 8901189, "name": "Lotus Island Vietnamese Eatery", "latitude": "43.5847660000", "longitude": "-79.5509490000", "cuisines": "Vietnamese, Asian", "average_cost_for_two": 35, "price_range": 2, "aggregate_rating": "4.0", "rating_text": "Very Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 17, "modified": "2018-08-17", "collection_id": 207, "collection_name": "Restaurants serving pho", "res_id": 8905248, "name": "Hanoi 3 Seasons", "latitude": "43.6622611111", "longitude": "-79.3345500000", "cuisines": "Vietnamese", "average_cost_for_two": 40, "price_range": 2, "aggregate_rating": "3.6", "rating_text": "Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 18, "modified": "2018-08-17", "collection_id": 207, "collection_name": "Restaurants serving pho", "res_id": 8906920, "name": "Bamboo Legend", "latitude": "43.4501340000", "longitude": "-79.7584150000", "cuisines": "Thai, Vietnamese, Asian", "average_cost_for_two": 40, "price_range": 2, "aggregate_rating": "4.1", "rating_text": "Very Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 19, "modified": "2018-08-17", "collection_id": 207, "collection_name": "Restaurants serving pho", "res_id": 8905418, "name": "Saigon House", "latitude": "43.6898222222", "longitude": "-79.7393638889", "cuisines": "Vietnamese, Asian", "average_cost_for_two": 30, "price_range": 2, "aggregate_rating": "3.9", "rating_text": "Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 20, "modified": "2018-08-17", "collection_id": 207, "collection_name": "Restaurants serving pho", "res_id": 17736606, "name": "Pho Fusion", "latitude": "44.0402880000", "longitude": "-79.4519250000", "cuisines": "Vietnamese", "average_cost_for_two": 0, "price_range": 1, "aggregate_rating": "3.9", "rating_text": "Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 21, "modified": "2018-08-17", "collection_id": 207, "collection_name": "Restaurants serving pho", "res_id": 8907566, "name": "Bach Yen", "latitude": "43.6666055556", "longitude": "-79.3474666667", "cuisines": "Vietnamese, Thai", "average_cost_for_two": 30, "price_range": 2, "aggregate_rating": "3.6", "rating_text": "Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 22, "modified": "2018-08-17", "collection_id": 207, "collection_name": "Restaurants serving pho", "res_id": 8908513, "name": "Pho Lang Van", "latitude": "43.6795666667", "longitude": "-79.4361027778", "cuisines": "Vietnamese, Asian", "average_cost_for_two": 30, "price_range": 2, "aggregate_rating": "3.8", "rating_text": "Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 23, "modified": "2018-08-17", "collection_id": 207, "collection_name": "Restaurants serving pho", "res_id": 17738447, "name": "Mint Garden", "latitude": "44.0738150000", "longitude": "-79.4341120000", "cuisines": "Vietnamese", "average_cost_for_two": 20, "price_range": 1, "aggregate_rating": "3.7", "rating_text": "Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 1, "modified": "2018-08-17", "collection_id": 310, "collection_name": "Board games", "res_id": 8907710, "name": "C'est What?", "latitude": "43.6489555556", "longitude": "-79.3736638889", "cuisines": "Bar Food", "average_cost_for_two": 60, "price_range": 3, "aggregate_rating": "3.9", "rating_text": "Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 2, "modified": "2018-08-17", "collection_id": 310, "collection_name": "Board games", "res_id": 8908352, "name": "Cafe Princess", "latitude": "43.7795194444", "longitude": "-79.4154888889", "cuisines": "Cafe, Desserts", "average_cost_for_two": 20, "price_range": 1, "aggregate_rating": "3.6", "rating_text": "Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 3, "modified": "2018-08-17", "collection_id": 310, "collection_name": "Board games", "res_id": 8905805, "name": "Snakes & Lattes", "latitude": "43.6647870000", "longitude": "-79.4131700000", "cuisines": "Cafe", "average_cost_for_two": 30, "price_range": 2, "aggregate_rating": "4.1", "rating_text": "Very Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 4, "modified": "2018-08-17", "collection_id": 310, "collection_name": "Board games", "res_id": 8909285, "name": "Rooster Coffee House", "latitude": "43.6691361111", "longitude": "-79.3528361111", "cuisines": "Cafe", "average_cost_for_two": 20, "price_range": 1, "aggregate_rating": "4.1", "rating_text": "Very Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 5, "modified": "2018-08-17", "collection_id": 310, "collection_name": "Board games", "res_id": 8908722, "name": "3030 Dundas West", "latitude": "43.6655500000", "longitude": "-79.4704900000", "cuisines": "Bar Food", "average_cost_for_two": 80, "price_range": 3, "aggregate_rating": "3.5", "rating_text": "Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 6, "modified": "2018-08-17", "collection_id": 310, "collection_name": "Board games", "res_id": 8905565, "name": "Stout Irish Pub", "latitude": "43.6639760000", "longitude": "-79.3689920000", "cuisines": "Irish, Bar Food", "average_cost_for_two": 80, "price_range": 3, "aggregate_rating": "3.7", "rating_text": "Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 7, "modified": "2018-08-17", "collection_id": 310, "collection_name": "Board games", "res_id": 8906793, "name": "The Only Cafe", "latitude": "43.6804972222", "longitude": "-79.3378611111", "cuisines": "Bar Food, Cafe", "average_cost_for_two": 30, "price_range": 2, "aggregate_rating": "3.7", "rating_text": "Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 8, "modified": "2018-08-17", "collection_id": 310, "collection_name": "Board games", "res_id": 8910236, "name": "The Bishop And The Belcher", "latitude": "43.6703660000", "longitude": "-79.3826770000", "cuisines": "Bar Food, Asian, Indian, Burger", "average_cost_for_two": 65, "price_range": 3, "aggregate_rating": "3.5", "rating_text": "Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 9, "modified": "2018-08-17", "collection_id": 310, "collection_name": "Board games", "res_id": 8910779, "name": "The TAMPERed PRESS", "latitude": "43.6501560000", "longitude": "-79.4172400000", "cuisines": "Cafe", "average_cost_for_two": 20, "price_range": 1, "aggregate_rating": "3.5", "rating_text": "Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 10, "modified": "2018-08-17", "collection_id": 310, "collection_name": "Board games", "res_id": 8911095, "name": "Merchants of Green Coffee", "latitude": "43.6600680000", "longitude": "-79.3541630000", "cuisines": "Cafe", "average_cost_for_two": 15, "price_range": 1, "aggregate_rating": "3.4", "rating_text": "Average", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 11, "modified": "2018-08-17", "collection_id": 310, "collection_name": "Board games", "res_id": 8905159, "name": "Clinton's Tavern", "latitude": "43.6637040000", "longitude": "-79.4173300000", "cuisines": "Bar Food, American", "average_cost_for_two": 50, "price_range": 2, "aggregate_rating": "3.4", "rating_text": "Average", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 12, "modified": "2018-08-17", "collection_id": 310, "collection_name": "Board games", "res_id": 8907570, "name": "Bampot House of Tea", "latitude": "43.6615990000", "longitude": "-79.4090520000", "cuisines": "Cafe", "average_cost_for_two": 60, "price_range": 3, "aggregate_rating": "3.4", "rating_text": "Average", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 1, "modified": "2018-08-17", "collection_id": 222, "collection_name": "Super sandwiches", "res_id": 8905563, "name": "Banh Mi Boys", "latitude": "43.6487360000", "longitude": "-79.3969520000", "cuisines": "Sandwich", "average_cost_for_two": 25, "price_range": 1, "aggregate_rating": "4.9", "rating_text": "Excellent", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 2, "modified": "2018-08-17", "collection_id": 222, "collection_name": "Super sandwiches", "res_id": 8908758, "name": "Banh Mi Boys", "latitude": "43.6589388889", "longitude": "-79.3822416667", "cuisines": "Sandwich", "average_cost_for_two": 25, "price_range": 1, "aggregate_rating": "4.2", "rating_text": "Very Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 3, "modified": "2018-08-17", "collection_id": 222, "collection_name": "Super sandwiches", "res_id": 8905221, "name": "Porchetta & Co.", "latitude": "43.6515930000", "longitude": "-79.4090210000", "cuisines": "Sandwich", "average_cost_for_two": 30, "price_range": 2, "aggregate_rating": "4.3", "rating_text": "Very Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 4, "modified": "2018-08-17", "collection_id": 222, "collection_name": "Super sandwiches", "res_id": 8910322, "name": "Black Camel", "latitude": "43.6770610000", "longitude": "-79.3893910000", "cuisines": "Cafe, Sandwich", "average_cost_for_two": 30, "price_range": 2, "aggregate_rating": "4.6", "rating_text": "Excellent", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 5, "modified": "2018-08-17", "collection_id": 222, "collection_name": "Super sandwiches", "res_id": 8910752, "name": "La Cubana", "latitude": "43.6462093000", "longitude": "-79.4196688000", "cuisines": "Cuban", "average_cost_for_two": 50, "price_range": 2, "aggregate_rating": "4.1", "rating_text": "Very Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 6, "modified": "2018-08-17", "collection_id": 222, "collection_name": "Super sandwiches", "res_id": 8907314, "name": "Carousel Bakery", "latitude": "43.6487222222", "longitude": "-79.3718250000", "cuisines": "Bagels, Bakery", "average_cost_for_two": 20, "price_range": 1, "aggregate_rating": "3.8", "rating_text": "Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 7, "modified": "2018-08-17", "collection_id": 222, "collection_name": "Super sandwiches", "res_id": 8911031, "name": "California Sandwiches", "latitude": "43.6525640000", "longitude": "-79.4123100000", "cuisines": "Sandwich", "average_cost_for_two": 20, "price_range": 1, "aggregate_rating": "4.5", "rating_text": "Excellent", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 8, "modified": "2018-08-17", "collection_id": 222, "collection_name": "Super sandwiches", "res_id": 8904683, "name": "The Fish Store", "latitude": "43.6550611111", "longitude": "-79.4162305556", "cuisines": "Seafood", "average_cost_for_two": 30, "price_range": 2, "aggregate_rating": "4.3", "rating_text": "Very Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 9, "modified": "2018-08-17", "collection_id": 222, "collection_name": "Super sandwiches", "res_id": 8907948, "name": "The Wren", "latitude": "43.6824138889", "longitude": "-79.3280944444", "cuisines": "Bar Food, Southern", "average_cost_for_two": 50, "price_range": 2, "aggregate_rating": "3.9", "rating_text": "Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 10, "modified": "2018-08-17", "collection_id": 222, "collection_name": "Super sandwiches", "res_id": 8905191, "name": "Sud Forno", "latitude": "43.6462070000", "longitude": "-79.4089920000", "cuisines": "Bakery, Ice Cream, Desserts, Italian", "average_cost_for_two": 30, "price_range": 2, "aggregate_rating": "3.6", "rating_text": "Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 11, "modified": "2018-08-17", "collection_id": 222, "collection_name": "Super sandwiches", "res_id": 8911132, "name": "Leslieville Pumps", "latitude": "43.6605540000", "longitude": "-79.3404670000", "cuisines": "Canadian", "average_cost_for_two": 20, "price_range": 1, "aggregate_rating": "3.9", "rating_text": "Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 12, "modified": "2018-08-17", "collection_id": 222, "collection_name": "Super sandwiches", "res_id": 8908682, "name": "California Sandwiches", "latitude": "43.6168250000", "longitude": "-79.5430150000", "cuisines": "Sandwich", "average_cost_for_two": 20, "price_range": 1, "aggregate_rating": "3.9", "rating_text": "Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 13, "modified": "2018-08-17", "collection_id": 222, "collection_name": "Super sandwiches", "res_id": 8910979, "name": "Bitondo's Pizzeria", "latitude": "43.6541230000", "longitude": "-79.4133530000", "cuisines": "Pizza, Italian", "average_cost_for_two": 25, "price_range": 1, "aggregate_rating": "4.3", "rating_text": "Very Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 14, "modified": "2018-08-17", "collection_id": 222, "collection_name": "Super sandwiches", "res_id": 8910935, "name": "Rashers", "latitude": "43.6608850000", "longitude": "-79.3412370000", "cuisines": "Fast Food", "average_cost_for_two": 20, "price_range": 1, "aggregate_rating": "4.2", "rating_text": "Very Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 15, "modified": "2018-08-17", "collection_id": 222, "collection_name": "Super sandwiches", "res_id": 8904078, "name": "The Belly Buster Submarines", "latitude": "43.7337570000", "longitude": "-79.4042790000", "cuisines": "Sandwich", "average_cost_for_two": 20, "price_range": 1, "aggregate_rating": "4.2", "rating_text": "Very Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 16, "modified": "2018-08-17", "collection_id": 222, "collection_name": "Super sandwiches", "res_id": 8907902, "name": "Uno Mustachio", "latitude": "43.6486666667", "longitude": "-79.3714833333", "cuisines": "Sandwich, Italian", "average_cost_for_two": 25, "price_range": 1, "aggregate_rating": "3.9", "rating_text": "Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 17, "modified": "2018-08-17", "collection_id": 222, "collection_name": "Super sandwiches", "res_id": 8900404, "name": "California Sandwiches", "latitude": "43.7559090000", "longitude": "-79.4736790000", "cuisines": "Sandwich", "average_cost_for_two": 20, "price_range": 1, "aggregate_rating": "4.0", "rating_text": "Very Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 18, "modified": "2018-08-17", "collection_id": 222, "collection_name": "Super sandwiches", "res_id": 8906296, "name": "TLP Sandwich Co.", "latitude": "43.6578055556", "longitude": "-79.3825305556", "cuisines": "Fast Food, Steak, Burger, Deli, Sandwich", "average_cost_for_two": 20, "price_range": 1, "aggregate_rating": "3.6", "rating_text": "Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 19, "modified": "2018-08-17", "collection_id": 222, "collection_name": "Super sandwiches", "res_id": 8900122, "name": "Agincourt Bakery", "latitude": "43.7957730000", "longitude": "-79.3263090000", "cuisines": "Bakery, Italian, Desserts", "average_cost_for_two": 20, "price_range": 1, "aggregate_rating": "3.8", "rating_text": "Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 20, "modified": "2018-08-17", "collection_id": 222, "collection_name": "Super sandwiches", "res_id": 8907378, "name": "Sky Blue Sky Sandwich Company", "latitude": "43.6648416667", "longitude": "-79.4132694444", "cuisines": "Sandwich, Deli", "average_cost_for_two": 20, "price_range": 1, "aggregate_rating": "3.8", "rating_text": "Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 21, "modified": "2018-08-17", "collection_id": 222, "collection_name": "Super sandwiches", "res_id": 8903008, "name": "California Sandwiches", "latitude": "43.7005920000", "longitude": "-79.4518970000", "cuisines": "Sandwich", "average_cost_for_two": 20, "price_range": 1, "aggregate_rating": "3.6", "rating_text": "Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 22, "modified": "2018-08-17", "collection_id": 222, "collection_name": "Super sandwiches", "res_id": 8908411, "name": "Sanagan's Meat Locker", "latitude": "43.6545777778", "longitude": "-79.4006194444", "cuisines": "Deli", "average_cost_for_two": 25, "price_range": 1, "aggregate_rating": "3.6", "rating_text": "Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 23, "modified": "2018-08-17", "collection_id": 222, "collection_name": "Super sandwiches", "res_id": 8910765, "name": "Brock Sandwich", "latitude": "43.6588555000", "longitude": "-79.4405614000", "cuisines": "Sandwich", "average_cost_for_two": 30, "price_range": 2, "aggregate_rating": "3.7", "rating_text": "Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 24, "modified": "2018-08-17", "collection_id": 222, "collection_name": "Super sandwiches", "res_id": 8911034, "name": "California Sandwiches", "latitude": "43.7917260000", "longitude": "-79.5530280000", "cuisines": "Sandwich", "average_cost_for_two": 20, "price_range": 1, "aggregate_rating": "4.0", "rating_text": "Very Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 25, "modified": "2018-08-17", "collection_id": 222, "collection_name": "Super sandwiches", "res_id": 8901592, "name": "California Sandwiches", "latitude": "43.7260360000", "longitude": "-79.2875670000", "cuisines": "Sandwich", "average_cost_for_two": 20, "price_range": 1, "aggregate_rating": "3.5", "rating_text": "Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 26, "modified": "2018-08-17", "collection_id": 222, "collection_name": "Super sandwiches", "res_id": 8908876, "name": "California Sandwiches", "latitude": "43.6604277778", "longitude": "-79.3831166667", "cuisines": "Sandwich", "average_cost_for_two": 20, "price_range": 1, "aggregate_rating": "3.1", "rating_text": "Average", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 27, "modified": "2018-08-17", "collection_id": 222, "collection_name": "Super sandwiches", "res_id": 8911038, "name": "California Sandwiches", "latitude": "43.8913230000", "longitude": "-79.4416710000", "cuisines": "Sandwich", "average_cost_for_two": 20, "price_range": 1, "aggregate_rating": "3.6", "rating_text": "Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 28, "modified": "2018-08-17", "collection_id": 222, "collection_name": "Super sandwiches", "res_id": 8911039, "name": "California Sandwiches", "latitude": "43.3566230000", "longitude": "-79.7830570000", "cuisines": "Sandwich", "average_cost_for_two": 20, "price_range": 1, "aggregate_rating": "3.5", "rating_text": "Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 29, "modified": "2018-08-17", "collection_id": 222, "collection_name": "Super sandwiches", "res_id": 8911227, "name": "Merci Mon Ami", "latitude": "43.6381850000", "longitude": "-79.4178094000", "cuisines": "Cafe", "average_cost_for_two": 30, "price_range": 2, "aggregate_rating": "3.7", "rating_text": "Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 30, "modified": "2018-08-17", "collection_id": 222, "collection_name": "Super sandwiches", "res_id": 8900594, "name": "California Sandwiches", "latitude": "43.5228260000", "longitude": "-79.6824470000", "cuisines": "Sandwich", "average_cost_for_two": 20, "price_range": 1, "aggregate_rating": "3.4", "rating_text": "Average", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 31, "modified": "2018-08-17", "collection_id": 222, "collection_name": "Super sandwiches", "res_id": 8901799, "name": "California Sandwiches", "latitude": "43.6541670000", "longitude": "-79.6465680000", "cuisines": "Sandwich", "average_cost_for_two": 20, "price_range": 1, "aggregate_rating": "3.6", "rating_text": "Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 32, "modified": "2018-08-17", "collection_id": 222, "collection_name": "Super sandwiches", "res_id": 8900520, "name": "California Sandwiches", "latitude": "43.6090660000", "longitude": "-79.6981960000", "cuisines": "Sandwich", "average_cost_for_two": 20, "price_range": 1, "aggregate_rating": "2.5", "rating_text": "Average", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 33, "modified": "2018-08-17", "collection_id": 222, "collection_name": "Super sandwiches", "res_id": 18322988, "name": "Bahn Mi Boys", "latitude": "43.7100000000", "longitude": "-79.4000000000", "cuisines": "Sandwich", "average_cost_for_two": 25, "price_range": 1, "aggregate_rating": "0", "rating_text": "Not rated", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 1, "modified": "2018-08-17", "collection_id": 15, "collection_name": "Sports bars", "res_id": 8906668, "name": "Real Sports Bar & Grill", "latitude": "43.6421750000", "longitude": "-79.3809300000", "cuisines": "Bar Food, Grill", "average_cost_for_two": 80, "price_range": 3, "aggregate_rating": "3.9", "rating_text": "Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 2, "modified": "2018-08-17", "collection_id": 15, "collection_name": "Sports bars", "res_id": 8905019, "name": "Wayne Gretzky's", "latitude": "43.6454111111", "longitude": "-79.3920750000", "cuisines": "Canadian, Grill, Bar Food", "average_cost_for_two": 60, "price_range": 3, "aggregate_rating": "3.6", "rating_text": "Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 3, "modified": "2018-08-17", "collection_id": 15, "collection_name": "Sports bars", "res_id": 8906221, "name": "The Loose Moose", "latitude": "43.6450720000", "longitude": "-79.3841010000", "cuisines": "Bar Food, Mexican", "average_cost_for_two": 60, "price_range": 3, "aggregate_rating": "3.7", "rating_text": "Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 4, "modified": "2018-08-17", "collection_id": 15, "collection_name": "Sports bars", "res_id": 8904442, "name": "The Wheat Sheaf Tavern", "latitude": "43.6437870000", "longitude": "-79.4028790000", "cuisines": "Bar Food", "average_cost_for_two": 50, "price_range": 2, "aggregate_rating": "3.8", "rating_text": "Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 5, "modified": "2018-08-17", "collection_id": 15, "collection_name": "Sports bars", "res_id": 8908613, "name": "The Dock Ellis", "latitude": "43.6493444444", "longitude": "-79.4254694444", "cuisines": "Bar Food, Canadian", "average_cost_for_two": 60, "price_range": 3, "aggregate_rating": "3.4", "rating_text": "Average", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 6, "modified": "2018-08-17", "collection_id": 15, "collection_name": "Sports bars", "res_id": 8904046, "name": "Safari Bar And Grill", "latitude": "43.7290690000", "longitude": "-79.4181560000", "cuisines": "Bar Food, American, Grill", "average_cost_for_two": 40, "price_range": 2, "aggregate_rating": "3.7", "rating_text": "Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 7, "modified": "2018-08-17", "collection_id": 15, "collection_name": "Sports bars", "res_id": 8909985, "name": "McSorley's Saloon & Grill", "latitude": "43.7047540000", "longitude": "-79.3748170000", "cuisines": "Grill, Canadian", "average_cost_for_two": 40, "price_range": 2, "aggregate_rating": "3.7", "rating_text": "Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 8, "modified": "2018-08-17", "collection_id": 15, "collection_name": "Sports bars", "res_id": 8905276, "name": "The Ballroom", "latitude": "43.6489690000", "longitude": "-79.3905110000", "cuisines": "Bar Food, Canadian, Mexican, Burger", "average_cost_for_two": 70, "price_range": 3, "aggregate_rating": "3.3", "rating_text": "Average", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 9, "modified": "2018-08-17", "collection_id": 15, "collection_name": "Sports bars", "res_id": 8909304, "name": "Murphy's Law", "latitude": "43.6673444444", "longitude": "-79.3126972222", "cuisines": "Bar Food, Irish", "average_cost_for_two": 50, "price_range": 2, "aggregate_rating": "3.7", "rating_text": "Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 10, "modified": "2018-08-17", "collection_id": 15, "collection_name": "Sports bars", "res_id": 8910030, "name": "Wingporium", "latitude": "43.6302450000", "longitude": "-79.5180890000", "cuisines": "Bar Food, Southern", "average_cost_for_two": 50, "price_range": 2, "aggregate_rating": "3.7", "rating_text": "Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 11, "modified": "2018-08-17", "collection_id": 15, "collection_name": "Sports bars", "res_id": 8911072, "name": "Duke Of York", "latitude": "43.6692820000", "longitude": "-79.3974210000", "cuisines": "Bar Food", "average_cost_for_two": 60, "price_range": 3, "aggregate_rating": "3.5", "rating_text": "Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 12, "modified": "2018-08-17", "collection_id": 15, "collection_name": "Sports bars", "res_id": 8909021, "name": "Dog & Bear", "latitude": "43.6434750000", "longitude": "-79.4229194444", "cuisines": "Bar Food, British", "average_cost_for_two": 55, "price_range": 2, "aggregate_rating": "3.6", "rating_text": "Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 13, "modified": "2018-08-17", "collection_id": 15, "collection_name": "Sports bars", "res_id": 8911048, "name": "Rally Sports Bar", "latitude": "43.7172880000", "longitude": "-79.3053210000", "cuisines": "American, BBQ", "average_cost_for_two": 50, "price_range": 2, "aggregate_rating": "3.8", "rating_text": "Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 14, "modified": "2018-08-17", "collection_id": 15, "collection_name": "Sports bars", "res_id": 8911621, "name": "Wegz", "latitude": "43.8333910000", "longitude": "-79.5215910000", "cuisines": "Bar Food", "average_cost_for_two": 65, "price_range": 3, "aggregate_rating": "3.4", "rating_text": "Average", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 15, "modified": "2018-08-17", "collection_id": 15, "collection_name": "Sports bars", "res_id": 8904624, "name": "Banknote Bar", "latitude": "43.6440388889", "longitude": "-79.4024361111", "cuisines": "Bar Food, Italian, Pizza", "average_cost_for_two": 60, "price_range": 3, "aggregate_rating": "3.4", "rating_text": "Average", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 16, "modified": "2018-08-17", "collection_id": 15, "collection_name": "Sports bars", "res_id": 8911221, "name": "Sloppy Joe's", "latitude": "43.5946670000", "longitude": "-79.5321390000", "cuisines": "Bar Food", "average_cost_for_two": 55, "price_range": 2, "aggregate_rating": "3.7", "rating_text": "Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 17, "modified": "2018-08-17", "collection_id": 15, "collection_name": "Sports bars", "res_id": 8909648, "name": "Shakey's", "latitude": "43.6507420000", "longitude": "-79.4776990000", "cuisines": "Bar Food", "average_cost_for_two": 60, "price_range": 3, "aggregate_rating": "3.5", "rating_text": "Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 18, "modified": "2018-08-17", "collection_id": 15, "collection_name": "Sports bars", "res_id": 8904570, "name": "Shoeless Joe's", "latitude": "43.6469630000", "longitude": "-79.3885330000", "cuisines": "American, Bar Food", "average_cost_for_two": 60, "price_range": 3, "aggregate_rating": "3.2", "rating_text": "Average", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 19, "modified": "2018-08-17", "collection_id": 15, "collection_name": "Sports bars", "res_id": 8911182, "name": "Scallywags", "latitude": "43.6877650000", "longitude": "-79.3945420000", "cuisines": "Bar Food", "average_cost_for_two": 65, "price_range": 3, "aggregate_rating": "3.2", "rating_text": "Average", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 20, "modified": "2018-08-17", "collection_id": 15, "collection_name": "Sports bars", "res_id": 8909916, "name": "The Dizzy", "latitude": "43.6479300000", "longitude": "-79.4496840000", "cuisines": "Bar Food, Grill", "average_cost_for_two": 65, "price_range": 3, "aggregate_rating": "3.5", "rating_text": "Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 21, "modified": "2018-08-17", "collection_id": 15, "collection_name": "Sports bars", "res_id": 8910758, "name": "Brass Taps Pizza Pub", "latitude": "43.6537870000", "longitude": "-79.4261370000", "cuisines": "Pizza, Italian", "average_cost_for_two": 40, "price_range": 2, "aggregate_rating": "3.5", "rating_text": "Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 22, "modified": "2018-08-17", "collection_id": 15, "collection_name": "Sports bars", "res_id": 8910975, "name": "Monarch Tavern", "latitude": "43.6541098000", "longitude": "-79.4136084000", "cuisines": "BBQ, Bar Food", "average_cost_for_two": 30, "price_range": 2, "aggregate_rating": "3.2", "rating_text": "Average", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 23, "modified": "2018-08-17", "collection_id": 15, "collection_name": "Sports bars", "res_id": 8911607, "name": "Hurricane's Roadhouse Restaurant", "latitude": "43.6612360000", "longitude": "-79.4286070000", "cuisines": "Bar Food", "average_cost_for_two": 45, "price_range": 2, "aggregate_rating": "3.3", "rating_text": "Average", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 24, "modified": "2018-08-17", "collection_id": 15, "collection_name": "Sports bars", "res_id": 8911936, "name": "Opera Bob's Public House", "latitude": "43.6495390000", "longitude": "-79.4200500000", "cuisines": "Bar Food", "average_cost_for_two": 40, "price_range": 2, "aggregate_rating": "3.7", "rating_text": "Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 25, "modified": "2018-08-17", "collection_id": 15, "collection_name": "Sports bars", "res_id": 8911617, "name": "The Duke Of Gloucester", "latitude": "43.6679890000", "longitude": "-79.3857140000", "cuisines": "Bar Food", "average_cost_for_two": 60, "price_range": 3, "aggregate_rating": "3.4", "rating_text": "Average", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 26, "modified": "2018-08-17", "collection_id": 15, "collection_name": "Sports bars", "res_id": 8908892, "name": "The Derby", "latitude": "43.6496166667", "longitude": "-79.4327250000", "cuisines": "Bar Food", "average_cost_for_two": 45, "price_range": 2, "aggregate_rating": "0", "rating_text": "Not rated", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 27, "modified": "2018-08-17", "collection_id": 15, "collection_name": "Sports bars", "res_id": 8911409, "name": "The Contender", "latitude": "43.6492750000", "longitude": "-79.4212380000", "cuisines": "Bar Food", "average_cost_for_two": 35, "price_range": 2, "aggregate_rating": "0", "rating_text": "Not rated", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 1, "modified": "2018-08-17", "collection_id": 77, "collection_name": "Mexican magic", "res_id": 8909095, "name": "Seven Lives - Tacos Y Mariscos", "latitude": "43.6544388889", "longitude": "-79.4005361111", "cuisines": "Mexican", "average_cost_for_two": 30, "price_range": 2, "aggregate_rating": "4.5", "rating_text": "Excellent", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 2, "modified": "2018-08-17", "collection_id": 77, "collection_name": "Mexican magic", "res_id": 8908860, "name": "Grand Electric", "latitude": "43.6416805556", "longitude": "-79.4315333333", "cuisines": "Mexican", "average_cost_for_two": 40, "price_range": 2, "aggregate_rating": "4.5", "rating_text": "Excellent", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 3, "modified": "2018-08-17", "collection_id": 77, "collection_name": "Mexican magic", "res_id": 8904503, "name": "La Carnita", "latitude": "43.6559416667", "longitude": "-79.4097972222", "cuisines": "Mexican", "average_cost_for_two": 35, "price_range": 2, "aggregate_rating": "4.2", "rating_text": "Very Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 4, "modified": "2018-08-17", "collection_id": 77, "collection_name": "Mexican magic", "res_id": 8908528, "name": "Sneaky Dee's", "latitude": "43.6564972222", "longitude": "-79.4076222222", "cuisines": "Mexican, Bar Food, Tex-Mex", "average_cost_for_two": 55, "price_range": 2, "aggregate_rating": "3.9", "rating_text": "Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 5, "modified": "2018-08-17", "collection_id": 77, "collection_name": "Mexican magic", "res_id": 8908963, "name": "Playa Cabana", "latitude": "43.6758500000", "longitude": "-79.4012611111", "cuisines": "Mexican", "average_cost_for_two": 70, "price_range": 3, "aggregate_rating": "4.3", "rating_text": "Very Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 6, "modified": "2018-08-17", "collection_id": 77, "collection_name": "Mexican magic", "res_id": 8905432, "name": "Tacos El Asador", "latitude": "43.6639350000", "longitude": "-79.4171230000", "cuisines": "Fast Food, Mexican", "average_cost_for_two": 25, "price_range": 1, "aggregate_rating": "4.6", "rating_text": "Excellent", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 7, "modified": "2018-08-17", "collection_id": 77, "collection_name": "Mexican magic", "res_id": 8911403, "name": "Wilbur Mexicana", "latitude": "43.6448310000", "longitude": "-79.3983780000", "cuisines": "Mexican", "average_cost_for_two": 35, "price_range": 2, "aggregate_rating": "4.3", "rating_text": "Very Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 8, "modified": "2018-08-17", "collection_id": 77, "collection_name": "Mexican magic", "res_id": 8909083, "name": "Cantina", "latitude": "43.6653590000", "longitude": "-79.4655610000", "cuisines": "Mexican", "average_cost_for_two": 70, "price_range": 3, "aggregate_rating": "3.9", "rating_text": "Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 9, "modified": "2018-08-17", "collection_id": 77, "collection_name": "Mexican magic", "res_id": 8908350, "name": "El Trompo", "latitude": "43.6558416667", "longitude": "-79.4025805556", "cuisines": "Mexican", "average_cost_for_two": 45, "price_range": 2, "aggregate_rating": "4.2", "rating_text": "Very Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 10, "modified": "2018-08-17", "collection_id": 77, "collection_name": "Mexican magic", "res_id": 8903562, "name": "Los Colibris", "latitude": "43.6472850000", "longitude": "-79.3870760000", "cuisines": "Mexican", "average_cost_for_two": 80, "price_range": 3, "aggregate_rating": "4.2", "rating_text": "Very Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 11, "modified": "2018-08-17", "collection_id": 77, "collection_name": "Mexican magic", "res_id": 8906413, "name": "Fonda Lola", "latitude": "43.6446610000", "longitude": "-79.4165940000", "cuisines": "Mexican", "average_cost_for_two": 50, "price_range": 2, "aggregate_rating": "3.7", "rating_text": "Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 12, "modified": "2018-08-17", "collection_id": 77, "collection_name": "Mexican magic", "res_id": 8908946, "name": "Burrito Boyz", "latitude": "43.5923010000", "longitude": "-79.5422310000", "cuisines": "Mexican, Fast Food", "average_cost_for_two": 25, "price_range": 1, "aggregate_rating": "4.4", "rating_text": "Very Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 13, "modified": "2018-08-17", "collection_id": 77, "collection_name": "Mexican magic", "res_id": 8908349, "name": "El Rincon", "latitude": "43.6819650000", "longitude": "-79.4244230000", "cuisines": "Mexican", "average_cost_for_two": 65, "price_range": 3, "aggregate_rating": "3.8", "rating_text": "Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 14, "modified": "2018-08-17", "collection_id": 77, "collection_name": "Mexican magic", "res_id": 17737897, "name": "Jimmy Guaco's", "latitude": "43.8969900000", "longitude": "-78.8617820000", "cuisines": "Tex-Mex", "average_cost_for_two": 0, "price_range": 1, "aggregate_rating": "4.4", "rating_text": "Very Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 15, "modified": "2018-08-17", "collection_id": 77, "collection_name": "Mexican magic", "res_id": 8909023, "name": "Como En Casa", "latitude": "43.6653520000", "longitude": "-79.3845720000", "cuisines": "Mexican", "average_cost_for_two": 30, "price_range": 2, "aggregate_rating": "3.8", "rating_text": "Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 16, "modified": "2018-08-17", "collection_id": 77, "collection_name": "Mexican magic", "res_id": 8906958, "name": "Cielito Lindo", "latitude": "43.8471530000", "longitude": "-79.0755230000", "cuisines": "Mexican", "average_cost_for_two": 45, "price_range": 2, "aggregate_rating": "4.1", "rating_text": "Very Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 17, "modified": "2018-08-17", "collection_id": 77, "collection_name": "Mexican magic", "res_id": 8900572, "name": "Mexico Lindo", "latitude": "43.7896540000", "longitude": "-79.3026660000", "cuisines": "Mexican", "average_cost_for_two": 30, "price_range": 2, "aggregate_rating": "3.7", "rating_text": "Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 18, "modified": "2018-08-17", "collection_id": 77, "collection_name": "Mexican magic", "res_id": 8908388, "name": "King's Tacos", "latitude": "43.6776194444", "longitude": "-79.4440611111", "cuisines": "Mexican", "average_cost_for_two": 50, "price_range": 2, "aggregate_rating": "3.6", "rating_text": "Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 19, "modified": "2018-08-17", "collection_id": 77, "collection_name": "Mexican magic", "res_id": 8900033, "name": "Huevos Gourmet", "latitude": "43.6012150000", "longitude": "-79.5034870000", "cuisines": "Mexican", "average_cost_for_two": 30, "price_range": 2, "aggregate_rating": "3.5", "rating_text": "Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 20, "modified": "2018-08-17", "collection_id": 77, "collection_name": "Mexican magic", "res_id": 8908959, "name": "Rebozos", "latitude": "43.6846277778", "longitude": "-79.4497083333", "cuisines": "Mexican", "average_cost_for_two": 25, "price_range": 1, "aggregate_rating": "3.9", "rating_text": "Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 1, "modified": "2018-08-17", "collection_id": 288, "collection_name": "Hipster hangouts", "res_id": 8907425, "name": "El Furniture Warehouse", "latitude": "43.6659210000", "longitude": "-79.4079960000", "cuisines": "American, Bar Food", "average_cost_for_two": 30, "price_range": 2, "aggregate_rating": "3.6", "rating_text": "Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 2, "modified": "2018-08-17", "collection_id": 288, "collection_name": "Hipster hangouts", "res_id": 8907948, "name": "The Wren", "latitude": "43.6824138889", "longitude": "-79.3280944444", "cuisines": "Bar Food, Southern", "average_cost_for_two": 50, "price_range": 2, "aggregate_rating": "3.9", "rating_text": "Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 3, "modified": "2018-08-17", "collection_id": 288, "collection_name": "Hipster hangouts", "res_id": 8908613, "name": "The Dock Ellis", "latitude": "43.6493444444", "longitude": "-79.4254694444", "cuisines": "Bar Food, Canadian", "average_cost_for_two": 60, "price_range": 3, "aggregate_rating": "3.4", "rating_text": "Average", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 4, "modified": "2018-08-17", "collection_id": 288, "collection_name": "Hipster hangouts", "res_id": 8909728, "name": "The Hole In The Wall", "latitude": "43.6653520000", "longitude": "-79.4651490000", "cuisines": "Bar Food", "average_cost_for_two": 50, "price_range": 2, "aggregate_rating": "3.8", "rating_text": "Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 5, "modified": "2018-08-17", "collection_id": 288, "collection_name": "Hipster hangouts", "res_id": 8909005, "name": "Cold Tea", "latitude": "43.6542333333", "longitude": "-79.4012750000", "cuisines": "Asian", "average_cost_for_two": 45, "price_range": 2, "aggregate_rating": "3.7", "rating_text": "Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 6, "modified": "2018-08-17", "collection_id": 288, "collection_name": "Hipster hangouts", "res_id": 8910616, "name": "The Communist's Daughter", "latitude": "43.6493250000", "longitude": "-79.4209930000", "cuisines": "Bar Food", "average_cost_for_two": 40, "price_range": 2, "aggregate_rating": "3.5", "rating_text": "Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 7, "modified": "2018-08-17", "collection_id": 288, "collection_name": "Hipster hangouts", "res_id": 8909466, "name": "The Beaconsfield", "latitude": "43.6429833333", "longitude": "-79.4248972222", "cuisines": "Bar Food", "average_cost_for_two": 80, "price_range": 3, "aggregate_rating": "3.4", "rating_text": "Average", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 8, "modified": "2018-08-17", "collection_id": 288, "collection_name": "Hipster hangouts", "res_id": 8906671, "name": "Sweaty Betty's", "latitude": "43.6444670000", "longitude": "-79.4188460000", "cuisines": "Bar Food", "average_cost_for_two": 40, "price_range": 2, "aggregate_rating": "3.2", "rating_text": "Average", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 9, "modified": "2018-08-17", "collection_id": 288, "collection_name": "Hipster hangouts", "res_id": 8909290, "name": "The Painted Lady", "latitude": "43.6490638889", "longitude": "-79.4205861111", "cuisines": "Bar Food", "average_cost_for_two": 50, "price_range": 2, "aggregate_rating": "3.5", "rating_text": "Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 10, "modified": "2018-08-17", "collection_id": 288, "collection_name": "Hipster hangouts", "res_id": 8910798, "name": "Unlovable", "latitude": "43.6494286000", "longitude": "-79.4291008000", "cuisines": "Drinks Only", "average_cost_for_two": 50, "price_range": 2, "aggregate_rating": "2.7", "rating_text": "Average", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 11, "modified": "2018-08-17", "collection_id": 288, "collection_name": "Hipster hangouts", "res_id": 8909112, "name": "Black Dice Cafe", "latitude": "43.6497944444", "longitude": "-79.4343722222", "cuisines": "Bar Food", "average_cost_for_two": 40, "price_range": 2, "aggregate_rating": "0", "rating_text": "Not rated", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 1, "modified": "2018-08-17", "collection_id": 676, "collection_name": "Food trucks ", "res_id": 17739977, "name": "Frankie Fettuccine", "latitude": "43.4622622000", "longitude": "-79.6793278000", "cuisines": "Italian", "average_cost_for_two": 25, "price_range": 1, "aggregate_rating": "3.0", "rating_text": "Average", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 1, "modified": "2018-08-17", "collection_id": 205, "collection_name": "Comfort food", "res_id": 8904520, "name": "Thompson Diner - Thompson Toronto Hotel", "latitude": "43.6429130000", "longitude": "-79.4019820000", "cuisines": "Diner", "average_cost_for_two": 70, "price_range": 3, "aggregate_rating": "3.5", "rating_text": "Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 2, "modified": "2018-08-17", "collection_id": 205, "collection_name": "Comfort food", "res_id": 8904033, "name": "County General", "latitude": "43.6447940000", "longitude": "-79.4162540000", "cuisines": "American", "average_cost_for_two": 70, "price_range": 3, "aggregate_rating": "3.7", "rating_text": "Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 3, "modified": "2018-08-17", "collection_id": 205, "collection_name": "Comfort food", "res_id": 8904525, "name": "Woodlot", "latitude": "43.6558277778", "longitude": "-79.4100944444", "cuisines": "Canadian", "average_cost_for_two": 100, "price_range": 4, "aggregate_rating": "4.1", "rating_text": "Very Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 4, "modified": "2018-08-17", "collection_id": 205, "collection_name": "Comfort food", "res_id": 8908712, "name": "The Rosedale Diner", "latitude": "43.6803361111", "longitude": "-79.3908527778", "cuisines": "Israeli, Fusion, Burger", "average_cost_for_two": 60, "price_range": 3, "aggregate_rating": "3.7", "rating_text": "Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 5, "modified": "2018-08-17", "collection_id": 205, "collection_name": "Comfort food", "res_id": 8907591, "name": "Victory Cafe", "latitude": "43.6637777778", "longitude": "-79.4118333333", "cuisines": "Bar Food, Canadian", "average_cost_for_two": 55, "price_range": 2, "aggregate_rating": "3.8", "rating_text": "Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 6, "modified": "2018-08-17", "collection_id": 205, "collection_name": "Comfort food", "res_id": 8907519, "name": "The White Brick Kitchen", "latitude": "43.6642583333", "longitude": "-79.4149555556", "cuisines": "Canadian", "average_cost_for_two": 60, "price_range": 3, "aggregate_rating": "4.1", "rating_text": "Very Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 7, "modified": "2018-08-17", "collection_id": 205, "collection_name": "Comfort food", "res_id": 8907399, "name": "Harvest Kitchen", "latitude": "43.6627640000", "longitude": "-79.4043650000", "cuisines": "Modern European, Fusion", "average_cost_for_two": 55, "price_range": 2, "aggregate_rating": "3.7", "rating_text": "Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 8, "modified": "2018-08-17", "collection_id": 205, "collection_name": "Comfort food", "res_id": 8906883, "name": "George Street Diner", "latitude": "43.6528388889", "longitude": "-79.3715972222", "cuisines": "Diner", "average_cost_for_two": 30, "price_range": 2, "aggregate_rating": "4.1", "rating_text": "Very Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 9, "modified": "2018-08-17", "collection_id": 205, "collection_name": "Comfort food", "res_id": 8909663, "name": "The Ace", "latitude": "43.6461600000", "longitude": "-79.4489520000", "cuisines": "Canadian, Modern European", "average_cost_for_two": 90, "price_range": 3, "aggregate_rating": "3.7", "rating_text": "Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 10, "modified": "2018-08-17", "collection_id": 205, "collection_name": "Comfort food", "res_id": 8907768, "name": "Fanny Chadwick's", "latitude": "43.6735290000", "longitude": "-79.4119190000", "cuisines": "Canadian, Diner", "average_cost_for_two": 55, "price_range": 2, "aggregate_rating": "3.6", "rating_text": "Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 11, "modified": "2018-08-17", "collection_id": 205, "collection_name": "Comfort food", "res_id": 8906027, "name": "Under The Table", "latitude": "43.6674230000", "longitude": "-79.3694560000", "cuisines": "Canadian", "average_cost_for_two": 40, "price_range": 2, "aggregate_rating": "3.7", "rating_text": "Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 12, "modified": "2018-08-17", "collection_id": 205, "collection_name": "Comfort food", "res_id": 8907436, "name": "AFT Kitchen & Bar", "latitude": "43.6587111111", "longitude": "-79.3507222222", "cuisines": "Bar Food, BBQ", "average_cost_for_two": 80, "price_range": 3, "aggregate_rating": "4.1", "rating_text": "Very Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 1, "modified": "2018-08-17", "collection_id": 275, "collection_name": "Mamma mia!", "res_id": 8906796, "name": "Gusto 101", "latitude": "43.6450805556", "longitude": "-79.4003305556", "cuisines": "Pizza, Italian", "average_cost_for_two": 75, "price_range": 3, "aggregate_rating": "4.4", "rating_text": "Very Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 2, "modified": "2018-08-17", "collection_id": 275, "collection_name": "Mamma mia!", "res_id": 8906219, "name": "Gio Rana's Really Really Nice Restaurant", "latitude": "43.6634750000", "longitude": "-79.3305666667", "cuisines": "Italian", "average_cost_for_two": 65, "price_range": 3, "aggregate_rating": "4.6", "rating_text": "Excellent", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 3, "modified": "2018-08-17", "collection_id": 275, "collection_name": "Mamma mia!", "res_id": 8906156, "name": "Pizzeria Libretto", "latitude": "43.6783833333", "longitude": "-79.3478000000", "cuisines": "Pizza, Italian", "average_cost_for_two": 50, "price_range": 2, "aggregate_rating": "4.3", "rating_text": "Very Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 4, "modified": "2018-08-17", "collection_id": 275, "collection_name": "Mamma mia!", "res_id": 8904380, "name": "Cibo Wine Bar King St West", "latitude": "43.6449194444", "longitude": "-79.3974138889", "cuisines": "Italian", "average_cost_for_two": 70, "price_range": 3, "aggregate_rating": "3.7", "rating_text": "Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 5, "modified": "2018-08-17", "collection_id": 275, "collection_name": "Mamma mia!", "res_id": 8903965, "name": "Trattoria Mercatto", "latitude": "43.6544500000", "longitude": "-79.3809666667", "cuisines": "Italian", "average_cost_for_two": 70, "price_range": 3, "aggregate_rating": "3.7", "rating_text": "Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 6, "modified": "2018-08-17", "collection_id": 275, "collection_name": "Mamma mia!", "res_id": 8909348, "name": "Enoteca Sociale", "latitude": "43.6494250000", "longitude": "-79.4256277778", "cuisines": "Italian, European", "average_cost_for_two": 80, "price_range": 3, "aggregate_rating": "4.1", "rating_text": "Very Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 7, "modified": "2018-08-17", "collection_id": 275, "collection_name": "Mamma mia!", "res_id": 8904545, "name": "Bar Buca", "latitude": "43.6438555556", "longitude": "-79.4000250000", "cuisines": "Italian", "average_cost_for_two": 50, "price_range": 2, "aggregate_rating": "3.9", "rating_text": "Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 8, "modified": "2018-08-17", "collection_id": 275, "collection_name": "Mamma mia!", "res_id": 8905788, "name": "Fusaro's Italian Kitchen", "latitude": "43.6481700000", "longitude": "-79.3957890000", "cuisines": "Italian", "average_cost_for_two": 50, "price_range": 2, "aggregate_rating": "4.0", "rating_text": "Very Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 9, "modified": "2018-08-17", "collection_id": 275, "collection_name": "Mamma mia!", "res_id": 8904803, "name": "Campagnolo", "latitude": "43.6515694444", "longitude": "-79.4095388889", "cuisines": "Italian, European", "average_cost_for_two": 120, "price_range": 4, "aggregate_rating": "4.2", "rating_text": "Very Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 10, "modified": "2018-08-17", "collection_id": 275, "collection_name": "Mamma mia!", "res_id": 8911003, "name": "Buca Osteria & Bar", "latitude": "43.6721730000", "longitude": "-79.3903630000", "cuisines": "Italian, Seafood", "average_cost_for_two": 90, "price_range": 3, "aggregate_rating": "4.0", "rating_text": "Very Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 11, "modified": "2018-08-17", "collection_id": 275, "collection_name": "Mamma mia!", "res_id": 8907882, "name": "7 Numbers", "latitude": "43.6771190000", "longitude": "-79.3539940000", "cuisines": "Italian", "average_cost_for_two": 60, "price_range": 3, "aggregate_rating": "3.9", "rating_text": "Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 12, "modified": "2018-08-17", "collection_id": 275, "collection_name": "Mamma mia!", "res_id": 8903634, "name": "Mercatto", "latitude": "43.6502435000", "longitude": "-79.3762165000", "cuisines": "Italian", "average_cost_for_two": 65, "price_range": 3, "aggregate_rating": "4.0", "rating_text": "Very Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 13, "modified": "2018-08-17", "collection_id": 275, "collection_name": "Mamma mia!", "res_id": 16500069, "name": "Levetto", "latitude": "43.6414890000", "longitude": "-79.4217350000", "cuisines": "Italian, Pizza", "average_cost_for_two": 45, "price_range": 2, "aggregate_rating": "3.8", "rating_text": "Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 14, "modified": "2018-08-17", "collection_id": 275, "collection_name": "Mamma mia!", "res_id": 8904897, "name": "Mercatto", "latitude": "43.6501110000", "longitude": "-79.3809590000", "cuisines": "Italian", "average_cost_for_two": 70, "price_range": 3, "aggregate_rating": "3.8", "rating_text": "Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 15, "modified": "2018-08-17", "collection_id": 275, "collection_name": "Mamma mia!", "res_id": 8909123, "name": "Queen's Pasta Cafe", "latitude": "43.6506500000", "longitude": "-79.4780270000", "cuisines": "Italian", "average_cost_for_two": 65, "price_range": 3, "aggregate_rating": "4.0", "rating_text": "Very Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 16, "modified": "2018-08-17", "collection_id": 275, "collection_name": "Mamma mia!", "res_id": 8907264, "name": "Pizza e Pazzi", "latitude": "43.6780100000", "longitude": "-79.4438500000", "cuisines": "Pizza, Italian", "average_cost_for_two": 80, "price_range": 3, "aggregate_rating": "3.9", "rating_text": "Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 17, "modified": "2018-08-17", "collection_id": 275, "collection_name": "Mamma mia!", "res_id": 8905413, "name": "Tutti Matti", "latitude": "43.6471850000", "longitude": "-79.3939890000", "cuisines": "Italian", "average_cost_for_two": 100, "price_range": 4, "aggregate_rating": "3.7", "rating_text": "Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 18, "modified": "2018-08-17", "collection_id": 275, "collection_name": "Mamma mia!", "res_id": 8908019, "name": "Vi Vetha Bistro", "latitude": "43.6739460000", "longitude": "-79.2820280000", "cuisines": "Italian", "average_cost_for_two": 60, "price_range": 3, "aggregate_rating": "4.2", "rating_text": "Very Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 19, "modified": "2018-08-17", "collection_id": 275, "collection_name": "Mamma mia!", "res_id": 8905752, "name": "Marinella", "latitude": "43.6549550000", "longitude": "-79.4155140000", "cuisines": "Italian", "average_cost_for_two": 60, "price_range": 3, "aggregate_rating": "3.8", "rating_text": "Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 20, "modified": "2018-08-17", "collection_id": 275, "collection_name": "Mamma mia!", "res_id": 8911456, "name": "Mercatto", "latitude": "43.6601080000", "longitude": "-79.3875870000", "cuisines": "Italian", "average_cost_for_two": 65, "price_range": 3, "aggregate_rating": "3.7", "rating_text": "Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 21, "modified": "2018-08-17", "collection_id": 275, "collection_name": "Mamma mia!", "res_id": 8910137, "name": "Il Mulino", "latitude": "43.7000270000", "longitude": "-79.4307480000", "cuisines": "Italian", "average_cost_for_two": 100, "price_range": 4, "aggregate_rating": "4.0", "rating_text": "Very Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 22, "modified": "2018-08-17", "collection_id": 275, "collection_name": "Mamma mia!", "res_id": 8900909, "name": "Luci Restaurant", "latitude": "43.6272580000", "longitude": "-79.4983290000", "cuisines": "Italian", "average_cost_for_two": 80, "price_range": 3, "aggregate_rating": "3.9", "rating_text": "Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 23, "modified": "2018-08-17", "collection_id": 275, "collection_name": "Mamma mia!", "res_id": 8911806, "name": "Taverna Mercatto", "latitude": "43.6425060000", "longitude": "-79.3834020000", "cuisines": "Italian", "average_cost_for_two": 70, "price_range": 3, "aggregate_rating": "3.4", "rating_text": "Average", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 1, "modified": "2018-08-17", "collection_id": 458, "collection_name": "Grill Ma' cheese", "res_id": 8908995, "name": "The Stockyards", "latitude": "43.6815720000", "longitude": "-79.4263230000", "cuisines": "BBQ, Burger", "average_cost_for_two": 25, "price_range": 1, "aggregate_rating": "4.8", "rating_text": "Excellent", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 2, "modified": "2018-08-17", "collection_id": 458, "collection_name": "Grill Ma' cheese", "res_id": 8910506, "name": "Hair Of The Dog", "latitude": "43.6629550000", "longitude": "-79.3796630000", "cuisines": "Bar Food, Burger, Breakfast", "average_cost_for_two": 70, "price_range": 3, "aggregate_rating": "4.0", "rating_text": "Very Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 3, "modified": "2018-08-17", "collection_id": 458, "collection_name": "Grill Ma' cheese", "res_id": 8905221, "name": "Porchetta & Co.", "latitude": "43.6515930000", "longitude": "-79.4090210000", "cuisines": "Sandwich", "average_cost_for_two": 30, "price_range": 2, "aggregate_rating": "4.3", "rating_text": "Very Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 4, "modified": "2018-08-17", "collection_id": 458, "collection_name": "Grill Ma' cheese", "res_id": 8910942, "name": "Aunties & Uncles", "latitude": "43.6568330000", "longitude": "-79.4066610000", "cuisines": "Diner", "average_cost_for_two": 25, "price_range": 1, "aggregate_rating": "3.8", "rating_text": "Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 5, "modified": "2018-08-17", "collection_id": 458, "collection_name": "Grill Ma' cheese", "res_id": 8907591, "name": "Victory Cafe", "latitude": "43.6637777778", "longitude": "-79.4118333333", "cuisines": "Bar Food, Canadian", "average_cost_for_two": 55, "price_range": 2, "aggregate_rating": "3.8", "rating_text": "Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 6, "modified": "2018-08-17", "collection_id": 458, "collection_name": "Grill Ma' cheese", "res_id": 8907519, "name": "The White Brick Kitchen", "latitude": "43.6642583333", "longitude": "-79.4149555556", "cuisines": "Canadian", "average_cost_for_two": 60, "price_range": 3, "aggregate_rating": "4.1", "rating_text": "Very Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 7, "modified": "2018-08-17", "collection_id": 458, "collection_name": "Grill Ma' cheese", "res_id": 8907228, "name": "Prohibition Gastrohouse", "latitude": "43.6587777778", "longitude": "-79.3504194444", "cuisines": "Bar Food, Grill", "average_cost_for_two": 80, "price_range": 3, "aggregate_rating": "3.8", "rating_text": "Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 8, "modified": "2018-08-17", "collection_id": 458, "collection_name": "Grill Ma' cheese", "res_id": 8906883, "name": "George Street Diner", "latitude": "43.6528388889", "longitude": "-79.3715972222", "cuisines": "Diner", "average_cost_for_two": 30, "price_range": 2, "aggregate_rating": "4.1", "rating_text": "Very Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 9, "modified": "2018-08-17", "collection_id": 458, "collection_name": "Grill Ma' cheese", "res_id": 8900139, "name": "Joey", "latitude": "43.8674810000", "longitude": "-79.2894210000", "cuisines": "Steak, Grill, Fusion", "average_cost_for_two": 70, "price_range": 3, "aggregate_rating": "3.2", "rating_text": "Average", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 10, "modified": "2018-08-17", "collection_id": 458, "collection_name": "Grill Ma' cheese", "res_id": 8911149, "name": "Grapefruit Moon", "latitude": "43.6696760000", "longitude": "-79.4131570000", "cuisines": "Grill, Canadian", "average_cost_for_two": 30, "price_range": 2, "aggregate_rating": "3.9", "rating_text": "Good", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 11, "modified": "2018-08-17", "collection_id": 458, "collection_name": "Grill Ma' cheese", "res_id": 8905477, "name": "Melt Grilled Cheese", "latitude": "43.6490870000", "longitude": "-79.3916050000", "cuisines": "Canadian", "average_cost_for_two": 25, "price_range": 1, "aggregate_rating": "3.3", "rating_text": "Average", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 12, "modified": "2018-08-17", "collection_id": 458, "collection_name": "Grill Ma' cheese", "res_id": 8909568, "name": "Millwood Melt", "latitude": "43.7032740000", "longitude": "-79.3636250000", "cuisines": "Canadian", "average_cost_for_two": 20, "price_range": 1, "aggregate_rating": "3.3", "rating_text": "Average", "has_online_delivery": 0, "has_table_booking": 0},
+
+{"myRestaurantID": 13, "modified": "2018-08-17", "collection_id": 458, "collection_name": "Grill Ma' cheese", "res_id": 8906843, "name": "Cabin Fever", "latitude": "43.6553310000", "longitude": "-79.4565450000", "cuisines": "Cafe, Sandwich", "average_cost_for_two": 25, "price_range": 1, "aggregate_rating": "3.0", "rating_text": "Average", "has_online_delivery": 0, "has_table_booking": 0}]
+
